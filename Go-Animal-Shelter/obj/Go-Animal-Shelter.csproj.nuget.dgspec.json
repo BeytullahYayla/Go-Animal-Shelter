@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\Go-Animal-Shelter.csproj": {}
+    "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\Go-Animal-Shelter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\Go-Animal-Shelter.csproj": {
+    "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\Go-Animal-Shelter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\Go-Animal-Shelter.csproj",
+        "projectUniqueName": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\Go-Animal-Shelter.csproj",
         "projectName": "Go-Animal-Shelter",
-        "projectPath": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\Go-Animal-Shelter.csproj",
+        "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\Go-Animal-Shelter.csproj",
         "packagesPath": "C:\\Users\\Beytullah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\",
+        "outputPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Beytullah\\AppData\\Roaming\\NuGet\\NuGet.Config",

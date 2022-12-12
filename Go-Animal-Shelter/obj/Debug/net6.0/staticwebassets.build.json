@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NhaCPy3YuAcBtGtlmowvWQuxgUxZsSHyAM7ZjrRG5k8=",
+  "Hash": "d6hqFTEEu0DAR9zQ4i6Vwlmn8LX9tHKbk53q4DgSFj8=",
   "Source": "Go-Animal-Shelter",
   "BasePath": "_content/Go-Animal-Shelter",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Go-Animal-Shelter\\wwwroot",
       "Source": "Go-Animal-Shelter",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Go-Animal-Shelter.styles.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Go-Animal-Shelter.styles.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "Go-Animal-Shelter.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Go-Animal-Shelter.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Go-Animal-Shelter.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Go-Animal-Shelter.bundle.scp.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Go-Animal-Shelter.bundle.scp.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "Go-Animal-Shelter.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Go-Animal-Shelter.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Go-Animal-Shelter.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\.DS_Store",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\.DS_Store",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/.DS_Store",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\ajax-loader.gif",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\ajax-loader.gif",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/ajax-loader.gif",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\animate.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\animate.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/animate.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\bootstrap-datepicker.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\bootstrap-datepicker.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/bootstrap-datepicker.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-datepicker.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\css\\.DS_Store",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\css\\.DS_Store",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/css/.DS_Store",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\css\\bootstrap-reboot.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\css\\mixins\\_text-hide.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\css\\mixins\\_text-hide.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/css/mixins/_text-hide.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\css\\mixins\\_text-hide.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\flaticon.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\flaticon.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/flaticon.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\flaticon.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\jquery.timepicker.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\jquery.timepicker.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/jquery.timepicker.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery.timepicker.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\magnific-popup.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\magnific-popup.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/magnific-popup.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\owl.carousel.min.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\owl.theme.default.min.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\site.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\style.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\favicon.ico",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\.DS_Store",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\.DS_Store",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "fonts/.DS_Store",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\.DS_Store",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\.DS_Store",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "fonts/flaticon/.DS_Store",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flaticon\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\backup.txt",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\backup.txt",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "fonts/flaticon/backup.txt",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flaticon\\backup.txt"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\_flaticon.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\_flaticon.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "fonts/flaticon/font/_flaticon.scss",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flaticon\\font\\_flaticon.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\flaticon.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\flaticon.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "fonts/flaticon/font/flaticon.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flaticon\\font\\flaticon.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\Flaticon.eot",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\Flaticon.eot",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "fonts/flaticon/font/Flaticon.eot",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flaticon\\font\\Flaticon.eot"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\flaticon.html",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\flaticon.html",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "fonts/flaticon/font/flaticon.html",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flaticon\\font\\flaticon.html"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\Flaticon.svg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\Flaticon.svg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "fonts/flaticon/font/Flaticon.svg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flaticon\\font\\Flaticon.svg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\Flaticon.ttf",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "fonts/flaticon/font/Flaticon.ttf",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flaticon\\font\\Flaticon.ttf"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "fonts/flaticon/font/Flaticon.woff",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flaticon\\font\\Flaticon.woff"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff2",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff2",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "fonts/flaticon/font/Flaticon.woff2",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flaticon\\font\\Flaticon.woff2"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\license\\license.pdf",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\fonts\\flaticon\\license\\license.pdf",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "fonts/flaticon/license/license.pdf",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flaticon\\license\\license.pdf"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\.DS_Store",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\.DS_Store",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/.DS_Store",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\about.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\about.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/about.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\about-1.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\about-1.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/about-1.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\about-2.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\about-2.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/about-2.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\about-3.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\about-3.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/about-3.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\bg_1.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\bg_1.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/bg_1.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\bg_2.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\bg_2.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/bg_2.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\bg_3.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\bg_3.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/bg_3.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-1.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-1.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/gallery-1.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-2.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-2.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/gallery-2.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-3.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-3.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/gallery-3.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-4.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-4.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/gallery-4.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-5.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-5.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/gallery-5.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-6.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-6.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/gallery-6.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-7.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\gallery-7.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/gallery-7.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\image_1.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\image_1.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/image_1.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\image_2.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\image_2.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/image_2.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\image_3.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\image_3.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/image_3.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\image_4.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\image_4.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/image_4.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\image_5.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\image_5.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/image_5.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image_5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\image_6.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\image_6.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/image_6.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image_6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\img.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\img.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/img.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\loc.png",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\loc.png",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/loc.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\loc.png"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\person_1.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\person_1.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/person_1.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\person_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\person_2.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\person_2.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/person_2.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\person_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\person_3.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\person_3.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/person_3.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\person_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\person_4.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\person_4.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/person_4.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\person_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\pricing-1.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\pricing-1.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/pricing-1.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pricing-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\pricing-2.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\pricing-2.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/pricing-2.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pricing-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\pricing-3.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\pricing-3.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/pricing-3.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pricing-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-1.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-1.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/staff-1.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\staff-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-2.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-2.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/staff-2.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\staff-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-3.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-3.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/staff-3.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\staff-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-4.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-4.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/staff-4.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\staff-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-5.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-5.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/staff-5.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\staff-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-6.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-6.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/staff-6.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\staff-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-7.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-7.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/staff-7.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\staff-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-8.jpg",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\images\\staff-8.jpg",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "images/staff-8.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\staff-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\.DS_Store",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\.DS_Store",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/.DS_Store",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\js\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\bootstrap-datepicker.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\bootstrap-datepicker.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/bootstrap-datepicker.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap-datepicker.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\google-map.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\google-map.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/google-map.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\js\\google-map.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.animateNumber.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.animateNumber.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/jquery.animateNumber.min.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.animateNumber.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.easing.1.3.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.easing.1.3.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/jquery.easing.1.3.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.easing.1.3.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.stellar.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.stellar.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/jquery.stellar.min.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.stellar.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.timepicker.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.timepicker.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/jquery.timepicker.min.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.timepicker.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.waypoints.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery.waypoints.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/jquery.waypoints.min.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery-3.2.1.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/jquery-3.2.1.min.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.2.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery-migrate-3.0.1.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\jquery-migrate-3.0.1.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/jquery-migrate-3.0.1.min.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-migrate-3.0.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\main.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\owl.carousel.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\popper.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\popper.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/popper.min.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\scrollax.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\scrollax.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/scrollax.min.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scrollax.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\js\\site.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\.DS_Store",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\.DS_Store",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/.DS_Store",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\.DS_Store",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\.DS_Store",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/.DS_Store",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_alert.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_alert.scss",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_badge.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_badge.scss",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_breadcrumb.scss",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_button-group.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_button-group.scss",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_button-group.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_buttons.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_buttons.scss",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_card.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_card.scss",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_card.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_carousel.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_carousel.scss",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_carousel.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_close.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_close.scss",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_close.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_code.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_code.scss",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_code.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_custom-forms.scss",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_custom-forms.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_dropdown.scss",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_forms.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_forms.scss",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_functions.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_functions.scss",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_grid.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_grid.scss",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_images.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_images.scss",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_input-group.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_input-group.scss",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_input-group.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_jumbotron.scss",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_jumbotron.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_list-group.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_list-group.scss",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_media.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_media.scss",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_media.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_mixins.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_mixins.scss",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_modal.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_modal.scss",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_modal.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_nav.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_nav.scss",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_nav.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_navbar.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_navbar.scss",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_pagination.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_pagination.scss",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_popover.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_popover.scss",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_popover.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_print.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_print.scss",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_print.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_progress.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_progress.scss",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_progress.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_reboot.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_reboot.scss",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_root.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_root.scss",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_root.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_spinners.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_spinners.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_spinners.scss",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_spinners.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_tables.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_tables.scss",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_toasts.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_toasts.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_toasts.scss",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_toasts.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_tooltip.scss",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_tooltip.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_transitions.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_transitions.scss",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_transitions.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_type.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_type.scss",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_type.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_utilities.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_utilities.scss",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\_variables.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/_variables.scss",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/bootstrap.scss",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/bootstrap-grid.scss",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/bootstrap-reboot.scss",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_alert.scss",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_background-variant.scss",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_badge.scss",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_border-radius.scss",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_box-shadow.scss",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_breakpoints.scss",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_caret.scss",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_clearfix.scss",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_float.scss",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_float.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_forms.scss",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_gradients.scss",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_grid.scss",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_grid-framework.scss",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_hover.scss",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_hover.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_image.scss",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_lists.scss",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_nav-divider.scss",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_reset-text.scss",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_resize.scss",
       "AssetKind": "All",
@@ -3536,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_screen-reader.scss",
       "AssetKind": "All",
@@ -3553,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_size.scss",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_size.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_table-row.scss",
       "AssetKind": "All",
@@ -3587,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_text-emphasis.scss",
       "AssetKind": "All",
@@ -3604,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_text-hide.scss",
       "AssetKind": "All",
@@ -3621,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_text-truncate.scss",
       "AssetKind": "All",
@@ -3638,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_transition.scss",
       "AssetKind": "All",
@@ -3655,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/mixins/_visibility.scss",
       "AssetKind": "All",
@@ -3672,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_align.scss",
       "AssetKind": "All",
@@ -3689,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_align.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_background.scss",
       "AssetKind": "All",
@@ -3706,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_background.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_borders.scss",
       "AssetKind": "All",
@@ -3723,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_borders.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_clearfix.scss",
       "AssetKind": "All",
@@ -3740,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_display.scss",
       "AssetKind": "All",
@@ -3757,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_display.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_embed.scss",
       "AssetKind": "All",
@@ -3774,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_embed.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_flex.scss",
       "AssetKind": "All",
@@ -3791,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_flex.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_float.scss",
       "AssetKind": "All",
@@ -3808,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_float.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_overflow.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_overflow.scss",
       "AssetKind": "All",
@@ -3825,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_overflow.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_position.scss",
       "AssetKind": "All",
@@ -3842,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_position.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_screenreaders.scss",
       "AssetKind": "All",
@@ -3859,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_shadows.scss",
       "AssetKind": "All",
@@ -3876,10 +3876,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_sizing.scss",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_spacing.scss",
       "AssetKind": "All",
@@ -3910,10 +3910,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_text.scss",
       "AssetKind": "All",
@@ -3927,10 +3927,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_text.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/bootstrap/utilities/_visibility.scss",
       "AssetKind": "All",
@@ -3944,10 +3944,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss"
     },
     {
-      "Identity": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\style.scss",
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\scss\\style.scss",
       "SourceId": "Go-Animal-Shelter",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Beytullah\\source\\repos\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\",
       "BasePath": "_content/Go-Animal-Shelter",
       "RelativePath": "scss/style.scss",
       "AssetKind": "All",
