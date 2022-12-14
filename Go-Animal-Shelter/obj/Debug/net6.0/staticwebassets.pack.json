@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Go-Animal-Shelter.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Go-Animal-Shelter.bundle.scp.css"
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebUserInterface.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebUserInterface.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\wwwroot\\css\\.DS_Store",
@@ -925,20 +925,20 @@
       "PackagePath": "staticwebassets\\scss\\style.scss"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Go-Animal-Shelter.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebUserInterface.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Go-Animal-Shelter.props",
-      "PackagePath": "build\\Go-Animal-Shelter.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebUserInterface.props",
+      "PackagePath": "build\\WebUserInterface.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Go-Animal-Shelter.props",
-      "PackagePath": "buildMultiTargeting\\Go-Animal-Shelter.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebUserInterface.props",
+      "PackagePath": "buildMultiTargeting\\WebUserInterface.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Go-Animal-Shelter.props",
-      "PackagePath": "buildTransitive\\Go-Animal-Shelter.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebUserInterface.props",
+      "PackagePath": "buildTransitive\\WebUserInterface.props"
     }
   ],
   "ElementsToRemove": []

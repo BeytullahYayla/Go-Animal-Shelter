@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\Go-Animal-Shelter.csproj",
-      "projectName": "Go-Animal-Shelter",
-      "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\Go-Animal-Shelter.csproj",
+      "projectUniqueName": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\WebUserInterface.csproj",
+      "projectName": "WebUserInterface",
+      "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\WebUserInterface.csproj",
       "packagesPath": "C:\\Users\\Beytullah\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter\\obj\\",
       "projectStyle": "PackageReference",
