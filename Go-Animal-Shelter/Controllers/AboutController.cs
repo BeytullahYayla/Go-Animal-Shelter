@@ -6,7 +6,10 @@ namespace Go_Animal_Shelter.Controllers
     {
         public IActionResult Index()
         {
+
             return View();
         }
+
+        
     }
 }
