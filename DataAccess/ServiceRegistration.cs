@@ -15,7 +15,9 @@ namespace DataAccess
 		public static IServiceCollection AddDataAccess(this IServiceCollection services)
 		{
 			services.AddTransient<IServiceDal, EfServiceDal>();
-			
+			services.AddTransient<IContactDal, EfContactDal>();
+			services.AddTransient<IAnimalCategoryDal, EfAnimalCategoryDal>();
+			services.AddTransient<ISpeciesDal, EfSpeciesDal>();
 			return services;
 		}
 	}

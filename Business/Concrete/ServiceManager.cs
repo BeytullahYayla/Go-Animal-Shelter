@@ -24,7 +24,6 @@ namespace Business.Concrete
 		{
 			_serviceDal.Add(service);
 			return new SuccessResult("Service Added Successfully");
-			
 		}
 
 		public IResult Delete(Service service)

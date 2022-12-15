@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace Business.Abstract
 {
-    public interface IContactService
+    public interface ISpeciesService
     {
-        IResult Add(Contact contact);
-        IResult Delete(Contact contact);
-        IResult Update(Contact contact);
-        IDataResult<List<Contact>> GetAll();
+        IDataResult<List<Species>> GetAll();
+        IResult Add(Species species);
+        IResult Delete(Species species);
+        IResult Update(Species species);
     }
 }

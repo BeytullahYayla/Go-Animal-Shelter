@@ -16,7 +16,7 @@ namespace WebAPI.Controllers
             _contactService = contactService;
         }
 
-        [HttpPost]
+        [HttpPost("Add")]
         public IActionResult Add(Contact contact)
         {
             var result= _contactService.Add(contact);
@@ -24,18 +24,18 @@ namespace WebAPI.Controllers
             {
                 return Ok(result);
             }            
-                return BadRequest();   
+            return BadRequest();   
         }
-        [HttpPost]
-        public IActionResult Remove(Contact contact) {
-            var result= _contactService.Remove(contact);
+        [HttpPost("Delete")]
+        public IActionResult Delete(Contact contact) {
+            var result= _contactService.Delete(contact);
             if (result.Success)
             {
                 return Ok(result);
             }
             return BadRequest();
         }
-        [HttpPost]
+        [HttpPost("Update")]
         public IActionResult Update(Contact contact) {
             var result=_contactService.Update(contact);
             if (result.Success)
@@ -44,7 +44,7 @@ namespace WebAPI.Controllers
             }
             return BadRequest();
         }
-        [HttpGet]
+        [HttpGet("GetAll")]
         public IActionResult GetAll() {
             var result = _contactService.GetAll();
             if (result.Success)

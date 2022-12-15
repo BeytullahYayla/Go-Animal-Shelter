@@ -11,7 +11,7 @@ namespace Business.Abstract
 	public interface IAnimalCategoryService
 	{
 		IResult Add(AnimalCategory animalCategory);
-		IResult Remove(AnimalCategory animalCategory);
+		IResult Delete(AnimalCategory animalCategory);
 
 		IResult Update(AnimalCategory Category);
 		IDataResult<List<AnimalCategory>> GetAll();

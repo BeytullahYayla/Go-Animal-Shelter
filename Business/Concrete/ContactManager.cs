@@ -21,24 +21,24 @@ namespace Business.Concrete
         public IResult Add(Contact contact)
         {
             _contactDal.Add(contact);
-            return new SuccessResult("Basariyla Eklendi");
+            return new SuccessResult("Contact Added Successfully");
         }
 
         public IDataResult<List<Contact>> GetAll()
         {
-            return new SuccessDataResult<List<Contact>>(_contactDal.GetAll(),"Basariyla Eklendi");
+            return new SuccessDataResult<List<Contact>>(_contactDal.GetAll(), "Contact Listed Successfully");
         }
 
-        public IResult Remove(Contact contact)
+        public IResult Delete(Contact contact)
         {
             _contactDal.Delete(contact);
-            return new SuccessResult("Basariyla Silindi");
+            return new SuccessResult("Contact Deleted Successfully");
         }
 
         public IResult Update(Contact contact)
         {
             _contactDal.Update(contact);
-            return new SuccessResult("Basariyla Guncellendi");
+            return new SuccessResult("Contact Updated Successfully");
         }
     }
 }
