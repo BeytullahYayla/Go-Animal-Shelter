@@ -7,10 +7,10 @@ namespace WebAPI.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]
-	public class ServiceControllerr : ControllerBase
+	public class ServiceController : ControllerBase
 	{
 		IServiceService _serviceService;
-		public ServiceControllerr(IServiceService serviceService)
+		public ServiceController(IServiceService serviceService)
 		{
 			_serviceService= serviceService;
 		}

@@ -10,7 +10,9 @@
         "dependencies": {
           "Core": "1.0.0",
           "EntityFramework": "6.4.4",
+          "Microsoft.EntityFrameworkCore": "7.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.1",
+          "Npgsql": "7.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.0"
         },
         "runtime": {
@@ -487,6 +489,7 @@
           "Autofac": "6.5.0",
           "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.1",
+          "Npgsql": "7.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.0"
         },
         "runtime": {
@@ -494,6 +497,10 @@
         }
       },
       "Entities/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.1",
+          "Npgsql": "7.0.0"
+        },
         "runtime": {
           "Entities.dll": {}
         }
