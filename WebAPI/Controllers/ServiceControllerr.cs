@@ -14,7 +14,7 @@ namespace WebAPI.Controllers
 		{
 			_serviceService= serviceService;
 		}
-
+	
 		[HttpGet("GetAll")]
 		public IActionResult GetAll() {
 		
