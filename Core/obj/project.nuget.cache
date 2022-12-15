@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "p0sGG6gihT33DU01o571yBa+HHEJ5bIypi84SL4ntDdYXGHfWD2nHT7joKA+kjRRtBkvAy/Q66OTYq+9t6aDww==",
+  "dgSpecHash": "y1Na57clJ+TZxd9bwGhKn1Bcc/8D1xmdoaTPoGIrhxdJr3U6N4Vydzz0zCHQJhLgoq1BVJcbZ2j2d61kUtnQJg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Beytullah\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
     "C:\\Users\\Beytullah\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
     "C:\\Users\\Beytullah\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512",
     "C:\\Users\\Beytullah\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.1\\microsoft.entityframeworkcore.analyzers.7.0.1.nupkg.sha512",
@@ -19,6 +20,7 @@
     "C:\\Users\\Beytullah\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Beytullah\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
     "C:\\Users\\Beytullah\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.0\\npgsql.entityframeworkcore.postgresql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Beytullah\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\Beytullah\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []

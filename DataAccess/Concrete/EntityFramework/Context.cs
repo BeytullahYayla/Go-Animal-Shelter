@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
 namespace DataAccess.Concrete.EntityFramework
 {
@@ -15,5 +16,7 @@ namespace DataAccess.Concrete.EntityFramework
 			optionsBuilder.UseNpgsql(@"Host=localhost;Database=AnimalShelter;Username=postgres;Password=Beytullah.123");
 		}
 		public DbSet<Service> Services { get; set; }
+		public DbSet<AnimalCategory> AnimalCategories { get; set; }
 	}
 }
+

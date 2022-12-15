@@ -13,9 +13,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDataAccess();
-
-builder.Services.AddBusiness();
+builder.Services.AddSingleton<IServiceService,ServiceManager>();	
+builder.Services.AddSingleton<IServiceDal,EfServiceDal>();
 builder.Services.AddDbContext<Context>();
 
 

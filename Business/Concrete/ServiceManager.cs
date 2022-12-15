@@ -1,5 +1,6 @@
 ﻿using Business.Abstract;
 using Core.Utilities.Results;
+using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
 using System;
@@ -13,8 +14,8 @@ namespace Business.Concrete
 {
 	public class ServiceManager : IServiceService
 	{
-		EfServiceDal _serviceDal;
-		public ServiceManager(EfServiceDal serviceDal)
+		IServiceDal _serviceDal;
+		public ServiceManager(IServiceDal serviceDal)
 		{
 			_serviceDal = serviceDal;
 		}
