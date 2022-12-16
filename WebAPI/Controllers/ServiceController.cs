@@ -7,10 +7,10 @@ namespace WebAPI.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]
-	public class ServiceControllerr : ControllerBase
+	public class ServiceController : ControllerBase
 	{
 		IServiceService _serviceService;
-		public ServiceControllerr(IServiceService serviceService)
+		public ServiceController(IServiceService serviceService)
 		{
 			_serviceService= serviceService;
 		}
@@ -23,11 +23,7 @@ namespace WebAPI.Controllers
 			{
 				return Ok(result);
 			}
-			else
-			{
-				return BadRequest();
-			}
-		
+			return BadRequest();		
 		}
 		[HttpPost("Add")]
 		public IActionResult Add(Service service)
@@ -37,12 +33,28 @@ namespace WebAPI.Controllers
 			if (result.Success)
 			{
 				return Ok(result);
-			}
-			else
+			}			
+			return BadRequest();
+		}
+		[HttpPost("Update")]
+		public IActionResult Update(Service service)
+		{
+			var result=_serviceService.Update(service);
+			if (result.Success)
 			{
-				return BadRequest();
+				return Ok(result);
 			}
+			return BadRequest();
+		}
 
+		[HttpPost("Delete")]
+		public IActionResult Delete(Service service) {
+			var result=_serviceService.Delete(service);
+			if (result.Success)
+			{
+				return Ok(result);
+			}
+			return BadRequest();
 		}
 	}
 }

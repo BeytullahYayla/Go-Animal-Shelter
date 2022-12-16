@@ -13,10 +13,11 @@ namespace DataAccess.Concrete.EntityFramework
 	{
 		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 		{
-			optionsBuilder.UseNpgsql(@"Host=localhost;Database=AnimalShelter;Username=postgres;Password=Beytullah.123");
+			optionsBuilder.UseNpgsql(@"Host=localhost;Database=AnimalShelter;Username=postgres;Password=birdendokuza");
 		}
 		public DbSet<Service> Services { get; set; }
 		public DbSet<AnimalCategory> AnimalCategories { get; set; }
+		public DbSet<Contact> Contacts { get; set; }
 	}
 }
 
