@@ -19,6 +19,7 @@ namespace Business.Concrete
             _veterinerian = veterinerian;
         }
 
+       
         public IResult Add(Veterinerian veterinerian)
         {
             _veterinerian.Add(veterinerian);
