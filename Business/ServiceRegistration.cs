@@ -21,6 +21,7 @@ namespace Business
 			services.AddTransient<IContactService, ContactManager>();
 			services.AddTransient<IAnimalCategoryService, AnimalCategoryManager>();
 			services.AddTransient<ISpeciesService, SpeciesManager>();
+			services.AddTransient<IVeterinerianService, VeterinerianManager>();
 			
 			return services;
 		}

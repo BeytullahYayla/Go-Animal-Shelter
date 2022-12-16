@@ -18,6 +18,7 @@ namespace DataAccess
 			services.AddTransient<IContactDal, EfContactDal>();
 			services.AddTransient<IAnimalCategoryDal, EfAnimalCategoryDal>();
 			services.AddTransient<ISpeciesDal, EfSpeciesDal>();
+			services.AddTransient<IVeterinerianDal, EfVeterinerianDal>();
 			return services;
 		}
 	}
