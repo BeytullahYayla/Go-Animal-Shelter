@@ -22,6 +22,7 @@ namespace DataAccess
 			services.AddTransient<IVeterinerianDal, EfVeterinerianDal>();
 			services.AddTransient<IRolesDal, EfRolesDal>();
 			services.AddTransient<IUsersDal, EfUsersDal>();
+			services.AddTransient<IPetDal, EfPetDal>();
 			return services;
 		}
 	}

@@ -11,7 +11,7 @@ namespace Entities.Concrete
     public class Veterinerian:IEntity
     {
         [Key]
-        public int Id { get; set; }
+        public int VeterinerianId { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
         public int Age { get; set; }

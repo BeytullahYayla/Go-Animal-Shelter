@@ -11,7 +11,7 @@ namespace Entities.Concrete
 	public class AnimalCategory:IEntity
 	{
 		[Key]
-		public int Id { get; set; }
+		public int AnimalCategoryId { get; set; }
 		public string Name { get; set; }
 	}
 }

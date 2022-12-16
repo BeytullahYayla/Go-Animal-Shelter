@@ -15,7 +15,7 @@ namespace WebAPI.Controllers
 			_animalCategoryService = animalCategoryService;
 		}
 
-		[HttpGet]
+		[HttpGet("GetAll")]
 		public IActionResult GetAll()
 		{
 			var result=_animalCategoryService.GetAll();
@@ -26,7 +26,7 @@ namespace WebAPI.Controllers
 			return BadRequest();
 		}
 
-		[HttpPost]
+		[HttpPost("Add")]
 		public IActionResult Add(AnimalCategory animalCategory)
 		{
 			var result = _animalCategoryService.Add(animalCategory);
@@ -37,7 +37,7 @@ namespace WebAPI.Controllers
 			return BadRequest();
 		}
 
-		[HttpPost]
+		[HttpPost("Delete")]
 		public IActionResult Delete(AnimalCategory animalCategory)
 		{
 			var result = _animalCategoryService.Delete(animalCategory);
@@ -47,7 +47,7 @@ namespace WebAPI.Controllers
 			return BadRequest();
 		}
 
-		[HttpPost]
+		[HttpPost("Update")]
 		public IActionResult Update(AnimalCategory animalCategory) { 
 			var result = _animalCategoryService.Update(animalCategory);
 			if (result.Success)
