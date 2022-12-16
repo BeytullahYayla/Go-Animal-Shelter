@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    internal class EfAnimalCategoryDal:EfEntityRepositoryBase<AnimalCategory,Context>,IAnimalCategoryDal
+    public class EfAnimalCategoryDal:EfEntityRepositoryBase<AnimalCategory,Context>,IAnimalCategoryDal
     {
     }
 }
