@@ -16,4 +16,8 @@
     <PackageReference Include="Npgsql" Version="7.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\vendor\choices.js\src\" />
+  </ItemGroup>
+
 </Project>

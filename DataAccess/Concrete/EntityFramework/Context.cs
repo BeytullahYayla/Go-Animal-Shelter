@@ -18,6 +18,8 @@ namespace DataAccess.Concrete.EntityFramework
 		public DbSet<Service> Services { get; set; }
 		public DbSet<AnimalCategory> AnimalCategories { get; set; }
 		public DbSet<Contact> Contacts { get; set; }
+		public DbSet<Species> Species { get; set; }
+		public DbSet<Veterinerian> Veterersians { get; set;}
 	}
 }
 
