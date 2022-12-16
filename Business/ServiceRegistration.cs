@@ -18,7 +18,12 @@ namespace Business
 		public static IServiceCollection AddBusiness(this IServiceCollection services)
 		{
 			services.AddTransient<IServiceService, ServiceManager>();
-			services.AddTransient<IAnimalCategoryService,AnimalCategoryManager>();
+			services.AddTransient<IContactService, ContactManager>();
+			services.AddTransient<IAnimalCategoryService, AnimalCategoryManager>();
+			services.AddTransient<ISpeciesService, SpeciesManager>();
+			services.AddTransient<IVeterinerianService, VeterinerianManager>();
+			services.AddTransient<IRolesService, RolesManager>();
+
 			
 			return services;
 		}

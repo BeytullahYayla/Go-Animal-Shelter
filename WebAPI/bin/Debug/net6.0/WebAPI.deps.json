@@ -14,6 +14,7 @@
           "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.1",
+          "Npgsql": "7.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
@@ -549,7 +550,9 @@
         "dependencies": {
           "Castle.Core": "5.1.0",
           "Core": "1.0.0",
-          "DataAccess": "1.0.0"
+          "DataAccess": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.1",
+          "Npgsql": "7.0.0"
         },
         "runtime": {
           "Business.dll": {}
@@ -560,6 +563,7 @@
           "Autofac": "6.5.0",
           "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.1",
+          "Npgsql": "7.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.0"
         },
         "runtime": {
@@ -570,6 +574,8 @@
         "dependencies": {
           "Core": "1.0.0",
           "EntityFramework": "6.4.4",
+          "Microsoft.EntityFrameworkCore": "7.0.1",
+          "Npgsql": "7.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.0"
         },
         "runtime": {
@@ -577,6 +583,10 @@
         }
       },
       "Entities/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.1",
+          "Npgsql": "7.0.0"
+        },
         "runtime": {
           "Entities.dll": {}
         }

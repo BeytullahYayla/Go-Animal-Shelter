@@ -23,6 +23,7 @@ namespace WebAPI.Controllers
 			{
 				return Ok(result);
 			}
+
 			else
 			{
 				return BadRequest();
@@ -47,6 +48,7 @@ namespace WebAPI.Controllers
 			if (result.Success)
 			{
 				return Ok(result);
+
 			}
 			else
 			{
@@ -74,6 +76,27 @@ namespace WebAPI.Controllers
 			if (result.Success)
 			{
 				return Ok(result);	
+
+			}			
+			return BadRequest();
+		}
+		[HttpPost("Update")]
+		public IActionResult Update(Service service)
+		{
+			var result=_serviceService.Update(service);
+			if (result.Success)
+			{
+				return Ok(result);
+			}
+			return BadRequest();
+		}
+
+		[HttpPost("Delete")]
+		public IActionResult Delete(Service service) {
+			var result=_serviceService.Delete(service);
+			if (result.Success)
+			{
+				return Ok(result);
 			}
 			return BadRequest();
 		}

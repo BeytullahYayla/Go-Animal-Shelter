@@ -21,24 +21,24 @@ namespace Business.Concrete
 		public IResult Add(AnimalCategory animalCategory)
 		{
 			_animalCategoryDal.Add(animalCategory);
-			return new SuccessResult();
+			return new SuccessResult("Animal Category Added Successfully");
 		}
 
 		public IDataResult<List<AnimalCategory>> GetAll()
 		{
-			return new SuccessDataResult<List<AnimalCategory>>(_animalCategoryDal.GetAll(),"Isleminiz basarili");
+			return new SuccessDataResult<List<AnimalCategory>>(_animalCategoryDal.GetAll(), "Animal Category Listed Successfully");
 		}
 
-		public IResult Remove(AnimalCategory animalCategory)
+		public IResult Delete(AnimalCategory animalCategory)
 		{
 			_animalCategoryDal.Delete(animalCategory);
-			return new SuccessResult();	
+			return new SuccessResult("Animal Category Deleted Successfully");	
 		}
 
 		public IResult Update(AnimalCategory Category)
 		{
 			_animalCategoryDal.Update(Category);
-			return new SuccessResult();
+			return new SuccessResult("Animal Category Updated Successfully");
 		}
 	}
 }

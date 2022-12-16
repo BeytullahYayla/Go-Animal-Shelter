@@ -1,4 +1,5 @@
 ﻿using DataAccess.Abstract;
+using DataAccess.Concrete;
 using DataAccess.Concrete.EntityFramework;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -15,8 +16,13 @@ namespace DataAccess
 		public static IServiceCollection AddDataAccess(this IServiceCollection services)
 		{
 			services.AddTransient<IServiceDal, EfServiceDal>();
+			services.AddTransient<IContactDal, EfContactDal>();
 			services.AddTransient<IAnimalCategoryDal, EfAnimalCategoryDal>();
-			
+			services.AddTransient<ISpeciesDal, EfSpeciesDal>();
+			services.AddTransient<IVeterinerianDal, EfVeterinerianDal>();
+			services.AddTransient<IRolesDal, EfRolesDal>();
+			services.AddTransient<IUsersDal, EfUsersDal>();
+
 			return services;
 		}
 	}
