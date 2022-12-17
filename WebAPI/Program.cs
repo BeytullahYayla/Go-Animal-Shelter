@@ -13,9 +13,21 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+//DependencyResolving
 builder.Services.AddSingleton<IServiceService,ServiceManager>();	
 builder.Services.AddSingleton<IServiceDal,EfServiceDal>();
+builder.Services.AddSingleton<IPetDal,EfPetDal>();
+builder.Services.AddSingleton<IPetService, PetManager>();
 builder.Services.AddDbContext<Context>();
+builder.Services.AddSingleton<IContactDal,EfContactDal>();
+builder.Services.AddSingleton<IAnimalCategoryDal,EfAnimalCategoryDal>();
+builder.Services.AddSingleton<IAnimalCategoryService,AnimalCategoryManager>();
+
+builder.Services.AddSingleton<ISpeciesDal, EfSpeciesDal>();
+builder.Services.AddSingleton<ISpeciesService, SpeciesManager>();
+
+builder.Services.AddSingleton<IVeterinerianDal, EfVeterinerianDal>();
+builder.Services.AddSingleton<IVeterinerianService,VeterinerianManager>();
 
 
 var app = builder.Build();
