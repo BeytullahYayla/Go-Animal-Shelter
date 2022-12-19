@@ -2,6 +2,8 @@
 using Entities.Concrete;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
+using System.Text.Json.Serialization;
 
 namespace WebAPI.Controllers
 {
@@ -29,6 +31,7 @@ namespace WebAPI.Controllers
 		[HttpPost("Add")]
 		public IActionResult Add(AnimalCategory animalCategory)
 		{
+			
 			var result = _animalCategoryService.Add(animalCategory);
 			if (result.Success)
 			{

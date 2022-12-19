@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Abstract
 {
-    public interface IRolesDal:IEntityRepository<Roles>
+    public interface IRolesDal : IEntityRepository<Roles>
     {
     }
 }

@@ -27,7 +27,7 @@ namespace WebAPI.Controllers
             return BadRequest();
         }
 
-        [HttpGet("Update")]
+        [HttpPut("Update")]
 
         public IActionResult Update(Pet pet)
         {
@@ -39,7 +39,7 @@ namespace WebAPI.Controllers
             return BadRequest();
         }
 
-        [HttpGet("Delete")]
+        [HttpDelete("Delete")]
 
         public IActionResult Delete(Pet pet)
         {
@@ -51,7 +51,7 @@ namespace WebAPI.Controllers
             return BadRequest();
         }
 
-        [HttpGet("Add")]
+        [HttpPost("Add")]
 
         public IActionResult Add(Pet pet)
         {

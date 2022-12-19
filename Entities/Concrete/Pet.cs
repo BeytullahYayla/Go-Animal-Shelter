@@ -22,6 +22,7 @@ namespace Entities.Concrete
         public string Description { get; set; }
         public string ImagePath { get; set; }
 
+        
         public AnimalCategory animalCategory { get; set; }
 
         public Species species { get; set; }
