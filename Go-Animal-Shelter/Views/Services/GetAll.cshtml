@@ -1,0 +1,12 @@
+﻿@model  List<Entities.Concrete.Service>
+@*
+   
+*@
+@{
+    Layout = "_Layout";
+}
+@foreach (var item in Model)
+{
+    <p>@item.Name</p>
+}
+
