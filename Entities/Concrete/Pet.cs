@@ -26,5 +26,7 @@ namespace Entities.Concrete
         public AnimalCategory animalCategory { get; set; }
 
         public Species species { get; set; }
+
+        public PetOwner petOwner { get; set; }  
     }
 }

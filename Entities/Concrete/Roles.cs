@@ -15,5 +15,7 @@ namespace Entities.Concrete
         public int RoleId { get; set; }
         public string UserName { get; set; }
         public int Password { get; set; }
+
+        public List<User> users { get; set; }
     }
 }

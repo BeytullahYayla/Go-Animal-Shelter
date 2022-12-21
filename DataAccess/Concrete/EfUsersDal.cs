@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Concrete
 {
-    public class EfUsersDal:EfEntityRepositoryBase<Users,Context>,IUsersDal
+    public class EfUsersDal:EfEntityRepositoryBase<User,Context>,IUsersDal
     {
     }
 }

@@ -18,25 +18,25 @@ namespace Business.Concrete
             _usersDal = usersDal;
         }
 
-        public IResult Add(Users users)
+        public IResult Add(User users)
         {
             _usersDal.Add(users);
             return new SuccessResult("Users Added Succesfuly");
         }
 
-        public IResult Delete(Users users)
+        public IResult Delete(User users)
         {
             _usersDal.Delete(users);
             return new SuccessResult("Users Deleted Succesfuly");
         }
 
-        public IDataResult<List<Users>> GetAll()
+        public IDataResult<List<User>> GetAll()
         {
             
-            return new SuccessDataResult<List<Users>>(_usersDal.GetAll(),"Users Listed Succesfuly");
+            return new SuccessDataResult<List<User>>(_usersDal.GetAll(),"Users Listed Succesfuly");
         }
 
-        public IResult Update(Users users)
+        public IResult Update(User users)
         {
             _usersDal.Update(users);
             return new SuccessResult("Users Updated Succesfuly");

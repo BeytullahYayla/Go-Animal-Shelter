@@ -96,6 +96,9 @@ namespace DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
+                    b.Property<int>("PetOwnerId")
+                        .HasColumnType("integer");
+
                     b.Property<int>("speciesId")
                         .HasColumnType("integer");
 
@@ -103,9 +106,43 @@ namespace DataAccess.Migrations
 
                     b.HasIndex("AnimalCategoryId");
 
+                    b.HasIndex("PetOwnerId");
+
                     b.HasIndex("speciesId");
 
                     b.ToTable("Pets");
+                });
+
+            modelBuilder.Entity("Entities.Concrete.PetOwner", b =>
+                {
+                    b.Property<int>("PetOwnerId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("PetOwnerId"));
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("FirstName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("LastName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<int>("PetId")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("Tel")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("PetOwnerId");
+
+                    b.ToTable("PetOwner");
                 });
 
             modelBuilder.Entity("Entities.Concrete.Service", b =>
@@ -190,6 +227,12 @@ namespace DataAccess.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("Entities.Concrete.PetOwner", "petOwner")
+                        .WithMany("pets")
+                        .HasForeignKey("PetOwnerId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("Entities.Concrete.Species", "species")
                         .WithMany("pets")
                         .HasForeignKey("speciesId")
@@ -198,10 +241,17 @@ namespace DataAccess.Migrations
 
                     b.Navigation("animalCategory");
 
+                    b.Navigation("petOwner");
+
                     b.Navigation("species");
                 });
 
             modelBuilder.Entity("Entities.Concrete.AnimalCategory", b =>
+                {
+                    b.Navigation("pets");
+                });
+
+            modelBuilder.Entity("Entities.Concrete.PetOwner", b =>
                 {
                     b.Navigation("pets");
                 });

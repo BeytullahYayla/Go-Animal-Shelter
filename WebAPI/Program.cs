@@ -25,7 +25,8 @@ builder.Services.AddSingleton<IAnimalCategoryService,AnimalCategoryManager>();
 
 builder.Services.AddSingleton<ISpeciesDal, EfSpeciesDal>();
 builder.Services.AddSingleton<ISpeciesService, SpeciesManager>();
-
+builder.Services.AddSingleton<IPetOwnerDal, EfPetOwnerDal>();
+builder.Services.AddSingleton<IPetOwnerService,PetOwnerManager>();
 builder.Services.AddSingleton<IVeterinerianDal, EfVeterinerianDal>();
 builder.Services.AddSingleton<IVeterinerianService,VeterinerianManager>();
 
