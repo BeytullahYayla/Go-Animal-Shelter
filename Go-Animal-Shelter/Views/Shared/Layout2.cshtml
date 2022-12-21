@@ -3,105 +3,217 @@
 *@
 @{
 }
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Go_Animal_Shelter</title>
-   
-    
 
+<!Doctype HTML>
+<html>
+<head>
+<link href="~/admintemplate/vendors/feather/feather.css" rel="stylesheet" />
+<link rel="stylesheet" href="~/admintemplate/vendors/ti-icons/css/themify-icons.css">
+<link rel="stylesheet" href="~/admintemplate/vendors/css/vendor.bundle.base.css">
+<!-- endinject -->
+<!-- Plugin css for this page -->
+<link rel="stylesheet" href="~/admintemplate/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
+<link rel="stylesheet" href="~/admintemplate/vendors/ti-icons/css/themify-icons.css">
+<link rel="stylesheet" type="text/css" href="/admintemplate/js/select.dataTables.min.css">
+<!-- End plugin css for this page -->
+<!-- inject:css -->
+<link rel="stylesheet" href="~/admintemplate/css/vertical-layout-light/style.css">
+<!-- endinject -->
+<link rel="shortcut icon" href="~/admintemplate/images/favicon.png" />
 
 </head>
+
 <body>
-    <div class="wrap">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 d-flex align-items-center">
-                    <p class="mb-0 phone pl-md-2">
-                        <a href="#" class="mr-2"><span class="fa fa-phone mr-1"></span> +00 1234 567</a>
-                        <a href="#"><span class="fa fa-paper-plane mr-1"></span> youremail@email.com</a>
-                    </p>
-                </div>
-                <div class="col-md-6 d-flex justify-content-md-end">
-                    <div class="social-media">
-                        <p class="mb-0 d-flex">
-                            <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
-                            <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
-                            <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
-                            <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-dribbble"><i class="sr-only">Dribbble</i></span></a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
+<nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+    <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
+        <a class="navbar-brand brand-logo mr-5" href="index.html"><img src="images/logo.svg" class="mr-2" alt="logo" /></a>
+        <a class="navbar-brand brand-logo-mini" href="index.html"><img src="images/logo-mini.svg" alt="logo" /></a>
     </div>
-    <header>
-        <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
-            <div class="container">
-                <a class="navbar-brand" href="index.html"><span class="flaticon-pawprint-1 mr-2"></span>Pet sitting</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="fa fa-bars"></span> Menu
-                </button>
-                <div class="collapse navbar-collapse" id="ftco-nav">
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item"><a href="/Home" class="nav-link">Home</a></li>
-                        <li class="nav-item"><a href="/About" class="nav-link">About</a></li>
-                        <li class="nav-item"><a href="/Veterinerian" class="nav-link">Veterinarian</a></li>
-                        <li class="nav-item"><a href="/Services" class="nav-link">Services</a></li>
-                        <li class="nav-item"><a href="/Gallery" class="nav-link">Gallery</a></li>
-                        <li class="nav-item"><a href="/Pricing" class="nav-link">Pricing</a></li>
-                        <li class="nav-item"><a href="/Contact" class="nav-link">Contact</a></li>
+    <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
+        <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
+            <span class="icon-menu"></span>
+        </button>
+        <ul class="navbar-nav mr-lg-2">
+            <li class="nav-item nav-search d-none d-lg-block">
+                <div class="input-group">
+                    <div class="input-group-prepend hover-cursor" id="navbar-search-icon">
+                        <span class="input-group-text" id="search">
+                            <i class="icon-search"></i>
+                        </span>
+                    </div>
+                    <input type="text" class="form-control" id="navbar-search-input" placeholder="Search now" aria-label="search" aria-describedby="search">
+                </div>
+            </li>
+        </ul>
+        <ul class="navbar-nav navbar-nav-right">
+            <li class="nav-item dropdown">
+                <a class="nav-link count-indicator dropdown-toggle" id="notificationDropdown" href="#" data-toggle="dropdown">
+                    <i class="icon-bell mx-0"></i>
+                    <span class="count"></span>
+                </a>
+                <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list" aria-labelledby="notificationDropdown">
+                    <p class="mb-0 font-weight-normal float-left dropdown-header">Notifications</p>
+                    <a class="dropdown-item preview-item">
+                        <div class="preview-thumbnail">
+                            <div class="preview-icon bg-success">
+                                <i class="ti-info-alt mx-0"></i>
+                            </div>
+                        </div>
+                        <div class="preview-item-content">
+                            <h6 class="preview-subject font-weight-normal">Application Error</h6>
+                            <p class="font-weight-light small-text mb-0 text-muted">
+                                Just now
+                            </p>
+                        </div>
+                    </a>
+                    <a class="dropdown-item preview-item">
+                        <div class="preview-thumbnail">
+                            <div class="preview-icon bg-warning">
+                                <i class="ti-settings mx-0"></i>
+                            </div>
+                        </div>
+                        <div class="preview-item-content">
+                            <h6 class="preview-subject font-weight-normal">Settings</h6>
+                            <p class="font-weight-light small-text mb-0 text-muted">
+                                Private message
+                            </p>
+                        </div>
+                    </a>
 
-                        <li class="nav-item"><a href="/Login" class="nav-link">Login</a></li>
-                        <li class="nav-item"><a href="/Register" class="nav-link">Register</a></li>
+</nav>
 
-
+    <nav class="sidebar sidebar-offcanvas" id="sidebar">
+        <ul class="nav">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">
+                    <i class="icon-grid menu-icon"></i>
+                    <span class="menu-title">Dashboard</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
+                    <i class="icon-layout menu-icon"></i>
+                    <span class="menu-title">UI Elements</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="ui-basic">
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item"> <a class="nav-link" href="pages/ui-features/buttons.html">Buttons</a></li>
+                        <li class="nav-item"> <a class="nav-link" href="pages/ui-features/dropdowns.html">Dropdowns</a></li>
+                        <li class="nav-item"> <a class="nav-link" href="pages/ui-features/typography.html">Typography</a></li>
                     </ul>
                 </div>
-            </div>
-        </nav>
-    </header>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#form-elements" aria-expanded="false" aria-controls="form-elements">
+                    <i class="icon-columns menu-icon"></i>
+                    <span class="menu-title">Form elements</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="form-elements">
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item"><a class="nav-link" href="pages/forms/basic_elements.html">Basic Elements</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#charts" aria-expanded="false" aria-controls="charts">
+                    <i class="icon-bar-graph menu-icon"></i>
+                    <span class="menu-title">Charts</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="charts">
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item"> <a class="nav-link" href="pages/charts/chartjs.html">ChartJs</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#tables" aria-expanded="false" aria-controls="tables">
+                    <i class="icon-grid-2 menu-icon"></i>
+                    <span class="menu-title">Tables</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="tables">
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item"> <a class="nav-link" href="pages/tables/basic-table.html">Basic table</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#icons" aria-expanded="false" aria-controls="icons">
+                    <i class="icon-contract menu-icon"></i>
+                    <span class="menu-title">Icons</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="icons">
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item"> <a class="nav-link" href="pages/icons/mdi.html">Mdi icons</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#auth" aria-expanded="false" aria-controls="auth">
+                    <i class="icon-head menu-icon"></i>
+                    <span class="menu-title">User Pages</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="auth">
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item"> <a class="nav-link" href="pages/samples/login.html"> Login </a></li>
+                        <li class="nav-item"> <a class="nav-link" href="pages/samples/register.html"> Register </a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#error" aria-expanded="false" aria-controls="error">
+                    <i class="icon-ban menu-icon"></i>
+                    <span class="menu-title">Error pages</span>
+                    <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="error">
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item"> <a class="nav-link" href="pages/samples/error-404.html"> 404 </a></li>
+                        <li class="nav-item"> <a class="nav-link" href="pages/samples/error-500.html"> 500 </a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="pages/documentation/documentation.html">
+                    <i class="icon-paper menu-icon"></i>
+                    <span class="menu-title">Documentation</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
 
-    <main role="main" class="pb-3">
-        @RenderBody()
-    </main>
+<div class="main-panel">
+    <div class="content-wrapper">
+<main role="main" class="pb-3">
+    @RenderBody()
+</main>
+    </div>
+    </div>
+<script src="~/admintemplate/vendors/js/vendor.bundle.base.js"></script>
+<!-- endinject -->
+<!-- Plugin js for this page -->
+<script src="~/admintemplate/vendors/chart.js/Chart.min.js"></script>
+<script src="~/admintemplate/vendors/datatables.net/jquery.dataTables.js"></script>
+<script src="~/admintemplate/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+<script src="~/admintemplate/js/dataTables.select.min.js"></script>
 
+<!-- End plugin js for this page -->
+<!-- inject:js -->
+<script src="~/admintemplate/js/off-canvas.js"></script>
+<script src="~/admintemplate/js/hoverable-collapse.js"></script>
+<script src="~/admintemplate/js/template.js"></script>
+<script src="~/admintemplate/js/settings.js"></script>
+<script src="~/admintemplate/js/todolist.js"></script>
+<!-- endinject -->
+<!-- Custom js for this page-->
+<script src="~/admintemplate/js/dashboard.js"></script>
+<script src="~/admintemplate/js/Chart.roundedBarCharts.js"></script>
 
-    
-    <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" /><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" /></svg></div>
-
-    <script src="js/jquery.min.js"></script>
-    <script src="js/jquery-migrate-3.0.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.easing.1.3.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
-    <script src="js/jquery.stellar.min.js"></script>
-    <script src="js/jquery.animateNumber.min.js"></script>
-    <script src="js/bootstrap-datepicker.js"></script>
-    <script src="js/jquery.timepicker.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/scrollax.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-    <script src="js/google-map.js"></script>
-    <script src="js/main.js"></script>
-    <script src="~/vendor/bootstrap/js/bootstrap.bundle.js"></script>
-    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="~/vendor/bootstrap/js/bootstrap.esm.js"></script>
-    <script src="~/vendor/bootstrap/js/bootstrap.esm.min.js"></script>
-    <script src="~/vendor/bootstrap/js/bootstrap.js"></script>
-    <script src="~/vendor/bootstrap/js/bootstrap.min.js"></script>
-    <script src="~/vendor/chart.js/chart.bundle.js"></script>
-    <script src="~/vendor/chart.js/chart.bundle.min.js"></script>
-    <script src="~/vendor/chart.js/chart.js"></script>
-    <script src="~/vendor/chart.js/chart.min.js"></script>
-    <script src="~/vendor/just-validate/js/just-validate.js"></script>
-    <script src="~/vendor/just-validate/js/just-validate.min.js"></script>
-    <script src="~/js/admin.js"></script>
-    @await RenderSectionAsync("Scripts", required: false)
 
 </body>
 </html>
