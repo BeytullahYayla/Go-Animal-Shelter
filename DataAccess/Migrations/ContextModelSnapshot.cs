@@ -142,7 +142,30 @@ namespace DataAccess.Migrations
 
                     b.HasKey("PetOwnerId");
 
-                    b.ToTable("PetOwner");
+                    b.ToTable("PetsOwners");
+                });
+
+            modelBuilder.Entity("Entities.Concrete.Roles", b =>
+                {
+                    b.Property<int>("UserId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("UserId"));
+
+                    b.Property<int>("Password")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("RoleId")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("UserName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("UserId");
+
+                    b.ToTable("Roles");
                 });
 
             modelBuilder.Entity("Entities.Concrete.Service", b =>
@@ -183,6 +206,32 @@ namespace DataAccess.Migrations
                     b.ToTable("Species");
                 });
 
+            modelBuilder.Entity("Entities.Concrete.User", b =>
+                {
+                    b.Property<int>("UserId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("UserId"));
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<int>("RoleId")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("UserName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("UserId");
+
+                    b.HasIndex("RoleId");
+
+                    b.ToTable("Users");
+                });
+
             modelBuilder.Entity("Entities.Concrete.Veterinerian", b =>
                 {
                     b.Property<int>("Id")
@@ -216,7 +265,7 @@ namespace DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Veterersians");
+                    b.ToTable("Veterinerians");
                 });
 
             modelBuilder.Entity("Entities.Concrete.Pet", b =>
@@ -246,6 +295,17 @@ namespace DataAccess.Migrations
                     b.Navigation("species");
                 });
 
+            modelBuilder.Entity("Entities.Concrete.User", b =>
+                {
+                    b.HasOne("Entities.Concrete.Roles", "role")
+                        .WithMany("users")
+                        .HasForeignKey("RoleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("role");
+                });
+
             modelBuilder.Entity("Entities.Concrete.AnimalCategory", b =>
                 {
                     b.Navigation("pets");
@@ -254,6 +314,11 @@ namespace DataAccess.Migrations
             modelBuilder.Entity("Entities.Concrete.PetOwner", b =>
                 {
                     b.Navigation("pets");
+                });
+
+            modelBuilder.Entity("Entities.Concrete.Roles", b =>
+                {
+                    b.Navigation("users");
                 });
 
             modelBuilder.Entity("Entities.Concrete.Species", b =>

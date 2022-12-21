@@ -1,5 +1,4 @@
 ﻿using DataAccess.Abstract;
-using DataAccess.Concrete;
 using DataAccess.Concrete.EntityFramework;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -11,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess
 {
-	public static class ServiceRegistration
+    public static class ServiceRegistration
 	{
 		public static IServiceCollection AddDataAccess(this IServiceCollection services)
 		{
