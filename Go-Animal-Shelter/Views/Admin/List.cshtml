@@ -5,46 +5,52 @@
     Layout = "Layout2";
 }
 
-<br />
-<br />
-<br />
-<br />
+
 
 <div class="main-panel">
-<div class="content-wrapper">
-<p>
-    <a asp-action="AddAnimalCategory">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Id)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Id)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Name)
-                </td>
-                <td>
-                    <a asp-action="Update" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
-</div>
-</div>
+    <div class="content-wrapper">
+        <div class="row">
+                    <p>
+                        <a asp-action="AddAnimalCategory">Create New</a>
+                    </p>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Id)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Name)
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Id)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Name)
+                                    </td>
+                                    <td>
+                                        <a asp-action="Update" asp-route-id="@item.Id">Edit</a> |
+                                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                   
+                </div>
+
+                </div>
+                </div>
+                </div>
+          
+     
+
+

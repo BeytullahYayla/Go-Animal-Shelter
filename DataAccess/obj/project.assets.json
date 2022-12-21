@@ -2231,24 +2231,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sserc\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Beytullah\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sserc\\OneDrive\\Belgeler\\GitHub\\Go-Animal-Shelter\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\sserc\\OneDrive\\Belgeler\\GitHub\\Go-Animal-Shelter\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\sserc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sserc\\OneDrive\\Belgeler\\GitHub\\Go-Animal-Shelter\\DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\Beytullah\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\sserc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Beytullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2262,8 +2257,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\sserc\\OneDrive\\Belgeler\\GitHub\\Go-Animal-Shelter\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\sserc\\OneDrive\\Belgeler\\GitHub\\Go-Animal-Shelter\\Core\\Core.csproj"
+            "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Core\\Core.csproj"
             }
           }
         }
@@ -2317,7 +2312,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
