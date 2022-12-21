@@ -165,3 +165,4 @@ C:\Users\Beytullah\Documents\GitHub\Go-Animal-Shelter\WebAPI\bin\Debug\net6.0\Sy
 C:\Users\Beytullah\Documents\GitHub\Go-Animal-Shelter\WebAPI\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\Beytullah\Documents\GitHub\Go-Animal-Shelter\WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\Beytullah\Documents\GitHub\Go-Animal-Shelter\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sserc\OneDrive\Belgeler\GitHub\Go-Animal-Shelter\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
