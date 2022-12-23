@@ -15,7 +15,17 @@ namespace Go_Animal_Shelter.Controllers
             return View(result.Data);
         }
 
-       
+        [HttpGet]
+        public IActionResult List()
+        {
+            var result = serviceManager.GetAll();
+            if (result.Success)
+            {
+                return View(result.Data);
+            }
+            return View("Index");
+
+        }
 
         public IActionResult Add()
         {
@@ -27,7 +37,7 @@ namespace Go_Animal_Shelter.Controllers
                 var result = serviceManager.Add(service);
             if (result.Success)
             {
-                return RedirectToAction("Index");
+                return RedirectToAction("List");
             }
             return View();
         
@@ -38,27 +48,21 @@ namespace Go_Animal_Shelter.Controllers
         }
 
         [HttpPost]
-        public IActionResult Update(int id,Service service)
+        public IActionResult Update(Service service)
         {
             var result = serviceManager.Update(service);
             if (result.Success)
             {
-                return RedirectToAction("Index");
+                return RedirectToAction("List");
             }
             return View();
 
         }
         
-        [HttpPost]
         public IActionResult Delete(int id,Service service)
         {
            serviceManager.Delete(service);
-           
-            
-           return RedirectToAction("Index");
-            
-            
-
+           return RedirectToAction("List");          
         }
 
     }

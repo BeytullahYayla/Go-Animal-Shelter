@@ -1,12 +1,12 @@
-﻿@model IEnumerable<Entities.Concrete.AnimalCategory>
+﻿@model IEnumerable<Entities.Concrete.Contact>
 
 @{
     ViewData["Title"] = "List";
     Layout = "Layout2";
 }
 
-
 <br />
+
 <div class="main-panel">
     <div class="content-wrapper">
         <div class="row">
@@ -16,7 +16,16 @@
                         ID
                     </th>
                     <th>
-                        Kategori Adı
+                        Contact Full Name
+                    </th>
+                    <th>
+                        Subject
+                    </th>
+                    <th>
+                        Message
+                    </th>
+                    <th>
+                        Email
                     </th>
                     <th>
                         Delete
@@ -25,7 +34,7 @@
                         Edit
                     </th>
                     <th>
-                        Update
+                        Details
                     </th>
                 </tr>
                 @foreach (var item in Model)
@@ -35,7 +44,16 @@
                             @Html.DisplayFor(modelItem => item.Id)
                         </td>
                         <td>
-                            @Html.DisplayFor(modelItem => item.Name)
+                            @Html.DisplayFor(modelItem => item.FullName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Subject)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Message)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Email)
                         </td>
                         <td>
                             <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
@@ -49,9 +67,9 @@
                     </tr>
                 }
             </table>
-            <p>
-                <a asp-action="AddAnimalCategory" class="btn btn-check">Create New</a>
-            </p>
+            <div class="form-group">
+                <a asp-action="Add" class="btn btn-primary">Create New</a>
+            </div>
         </div>
     </div>
 </div>

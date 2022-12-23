@@ -56,7 +56,11 @@ namespace Go_Animal_Shelter.Controllers
                 return RedirectToAction("List");
             }
             return View();
-
+        }
+        public IActionResult Delete(int id, Contact contact)
+        {
+            contactManager.Delete(contact);
+            return RedirectToAction("List");
         }
     }
 }

@@ -58,6 +58,11 @@ namespace Go_Animal_Shelter.Controllers
 
 		}
 
+        public IActionResult Delete(int id, AnimalCategory animalCategory)
+        {
+            animalCategoryManager.Delete(animalCategory);
+            return RedirectToAction("List");
+        }
 
-	}
+    }
 }
