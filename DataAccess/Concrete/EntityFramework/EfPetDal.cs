@@ -11,5 +11,7 @@ namespace DataAccess.Concrete.EntityFramework
 {
     public class EfPetDal:EfEntityRepositoryBase<Pet,Context>,IPetDal
     {
+
+
     }
 }

@@ -9,6 +9,7 @@
       "MVC/1.0.0": {
         "dependencies": {
           "Business": "1.0.0",
+          "DataAccess": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.11",
