@@ -1,0 +1,75 @@
+﻿@model Entities.DTOs.UserRegisterDto
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<section class="ftco-section">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-md-6 text-center mb-5">
+				<h2 class="heading-section">Sign Up</h2>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-md-6 col-lg-5">
+				<div class="login-wrap p-4 p-md-5">
+					<div class="icon d-flex align-items-center justify-content-center">
+						<span class="fa fa-user-o"></span>
+					</div>
+					
+					@*<form action="#" class="login-form">
+						<div class="form-group">
+							<input type="text" class="form-control rounded-left" placeholder="Name" required>
+						</div>
+						<div class="form-group">
+							<input type="text" class="form-control rounded-left" placeholder="Surname" required>
+						</div>
+
+						<div class="form-group">
+							<input type="text" class="form-control rounded-left" placeholder="Username" required>
+						</div>
+						<div class="form-group d-flex">
+							<input type="password" class="form-control rounded-left" placeholder="Password" required>
+						</div>
+						<div class="form-group d-md-flex">
+							
+							
+						</div>
+						<div class="form-group">
+							<button type="submit" class="btn btn-primary rounded submit p-3 px-5">Submit</button>
+						</div>
+					</form>*@
+
+					<form asp-action="Register" class="login-form">
+						<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+						<div class="form-group">
+							<label asp-for="FirstName" class="control-label"></label>
+							<input asp-for="FirstName" class="form-control rounded-left" />
+							<span asp-validation-for="FirstName" class="text-danger"></span>
+						</div>
+						<div class="form-group">
+							<label asp-for="LastName" class="control-label"></label>
+							<input asp-for="LastName" class="form-control rounded-left" />
+							<span asp-validation-for="LastName" class="text-danger"></span>
+						</div>
+						<div class="form-group">
+							<label asp-for="Email" class="control-label"></label>
+							<input asp-for="Email" class="form-control rounded-left" />
+							<span asp-validation-for="Email" class="text-danger"></span>
+						</div>
+						<div class="form-group">
+							<label asp-for="Password" class="control-label"></label>
+							<input asp-for="Password" class="form-control rounded-left" />
+							<span asp-validation-for="Password" class="text-danger"></span>
+						</div>
+						<div class="form-group">
+							<input type="submit" value="Create" class="btn btn-primary" />
+						</div>
+					</form>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
