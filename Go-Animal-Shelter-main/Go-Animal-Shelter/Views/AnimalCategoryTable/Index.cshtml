@@ -1,0 +1,56 @@
+﻿@using Entities.Concrete;
+@using Go_Animal_Shelter.Controllers;
+@model List<Datum>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Layout2.cshtml";
+}
+
+<div class="content-wrapper">
+
+        <div class="row">
+            <table class="table table-bordered">
+                <tr>
+                    <th>
+                        ID
+                    </th>
+                    <th>
+                        Category Name
+                    </th>
+                    <th>
+                        Delete
+                    </th>
+                    <th>
+                        Edit
+                    </th>
+                    <th>
+                        Details
+                    </th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                        </td>
+                        <td>
+                            <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+                        </td>
+                        <td>
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">Details</a>
+                        </td>
+                    </tr>
+                }
+            </table>
+            <div class="form-group">
+                <a asp-action="Add" class="btn btn-primary">Create New Category</a>
+            </div>
+        </div>
+    </div>
+

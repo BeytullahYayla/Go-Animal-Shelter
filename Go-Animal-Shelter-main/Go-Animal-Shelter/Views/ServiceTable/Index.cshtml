@@ -6,34 +6,57 @@
 }
 
 
-
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Description)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Description)
-            </td>
-            <td>
-                <a asp-action="Update" asp-route-id="@item.ServiceId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.ServiceId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.ServiceId">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <table class="table table-bordered">
+                <tr>
+                    <th>
+                        ID
+                    </th>
+                    <th>
+                        Service Name
+                    </th>
+                    <th>
+                        Description
+                    </th>
+                    <th>
+                        Delete
+                    </th>
+                    <th>
+                        Update
+                    </th>
+                    <th>
+                        Details
+                    </th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ServiceId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                         <td>
+                            @Html.DisplayFor(modelItem => item.Description)
+                        </td>
+                        <td>
+                            <a asp-action="Delete" asp-route-id="@item.ServiceId" class="btn btn-danger">Delete</a>
+                        </td>
+                        <td>
+                            <a asp-action="Update" asp-route-id="@item.ServiceId" class="btn btn-warning">Edit</a>
+                        </td>
+                        <td>
+                            <a asp-action="Details" asp-route-id="@item.ServiceId" class="btn btn-primary">Details</a>
+                        </td>
+                    </tr>
+                }
+            </table>
+            <div class="form-group">
+                <a asp-action="Add" class="btn btn-primary">Create New Category</a>
+            </div>
+        </div>
+    </div>
+</div>

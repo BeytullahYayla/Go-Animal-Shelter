@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entities.Concrete;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Claims;
@@ -24,9 +25,9 @@ namespace Core.Extensions
             claims.Add(new Claim(ClaimTypes.NameIdentifier, nameIdentifier));
         }
 
-        public static void AddRoles(this ICollection<Claim> claims, string[] roles)
+        public static void AddRoles(this ICollection<Claim> claims, List<OperationClaim> operationClaims)
         {
-            roles.ToList().ForEach(role => claims.Add(new Claim(ClaimTypes.Role, role)));
+            operationClaims.ToList().ForEach(role => claims.Add(new Claim(ClaimTypes.Role, role.Name)));
         }
 
     }

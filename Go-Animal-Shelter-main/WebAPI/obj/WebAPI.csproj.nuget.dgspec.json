@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Business\\Business.csproj": {
+    "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Beytullah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Beytullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\Core.csproj"
+              "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\Core.csproj"
               },
-              "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\Core.csproj": {
+    "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Beytullah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Beytullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,8 +110,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Entities\\Entities.csproj"
+              "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Entities\\Entities.csproj"
               }
             }
           }
@@ -173,14 +173,14 @@
         }
       }
     },
-    "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Beytullah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Beytullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -197,8 +197,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\Core.csproj"
+              "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\Core.csproj"
               }
             }
           }
@@ -256,14 +256,14 @@
         }
       }
     },
-    "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Entities\\Entities.csproj": {
+    "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Beytullah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Beytullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -327,14 +327,14 @@
         }
       }
     },
-    "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Beytullah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Beytullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -351,17 +351,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Business\\Business.csproj"
+              "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Business\\Business.csproj"
               },
-              "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\Core.csproj"
+              "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\Core.csproj"
               },
-              "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Entities\\Entities.csproj"
+              "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Entities\\Entities.csproj"
               }
             }
           }

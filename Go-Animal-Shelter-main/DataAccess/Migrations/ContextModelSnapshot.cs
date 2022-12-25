@@ -236,7 +236,7 @@ namespace DataAccess.Migrations
                     b.ToTable("Users");
                 });
 
-            modelBuilder.Entity("Entities.Concrete.UserOperationClaim", b =>
+            modelBuilder.Entity("Entities.Concrete.UserOperationClaims", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

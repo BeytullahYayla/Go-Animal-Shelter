@@ -2546,11 +2546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Beytullah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Business\\obj\\",
+      "outputPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Beytullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2567,11 +2567,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\Core.csproj"
+            "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\Core.csproj"
             },
-            "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\DataAccess\\DataAccess.csproj"
             }
           }
         }

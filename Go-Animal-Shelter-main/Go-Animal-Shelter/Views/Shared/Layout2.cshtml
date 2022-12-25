@@ -12,8 +12,23 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 
     <title>AdminLTE 3 | Dashboard 3</title>
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    @*<link href="~/folder2/css/animate.css" rel="stylesheet" />
+    <link href="~/folder2/css/owl.carousel.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/folder2/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="~/folder2/css/magnific-popup.css">
+
+
+    <link rel="stylesheet" href="~/folder2/css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="~/folder2/css/jquery.timepicker.css">
+
+    <link rel="stylesheet" href="~/folder2/css/flaticon.css">
+    <link rel="stylesheet" href="~/folder2/css/style.css">*@
+
 
     <!-- Font Awesome Icons -->
     <link rel="stylesheet" href="~/AdminLTE-3.0.4/plugins/fontawesome-free/css/all.min.css">
@@ -35,6 +50,33 @@ to get the desired effect
 |---------------------------------------------------------|
 -->
 <body class="hold-transition sidebar-mini">
+   
+   @* <header>
+        <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+            <div class="container">
+                <a class="navbar-brand" href="index.html"><span class="flaticon-pawprint-1 mr-2"></span>Pet sitting</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="fa fa-bars"></span> Menu
+                </button>
+                <div class="collapse navbar-collapse" id="ftco-nav">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item"><a href="/Home" class="nav-link">Home</a></li>
+                        <li class="nav-item"><a href="/About" class="nav-link">About</a></li>
+                        <li class="nav-item"><a href="/Veterinerian" class="nav-link">Veterinarian</a></li>
+                        <li class="nav-item"><a href="/Services" class="nav-link">Services</a></li>
+                        <li class="nav-item"><a href="/Gallery" class="nav-link">Gallery</a></li>
+                        <li class="nav-item"><a href="/Pricing" class="nav-link">Pricing</a></li>
+                        <li class="nav-item"><a href="/Contact" class="nav-link">Contact</a></li>
+
+                        <li class="nav-item"><a href="/Login" class="nav-link">Login</a></li>
+                        <li class="nav-item"><a href="/Register" class="nav-link">Register</a></li>
+
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>*@
     <div class="wrapper">
         <!-- Navbar -->
         <!-- /.navbar -->
@@ -51,9 +93,7 @@ to get the desired effect
             <div class="sidebar">
                 <!-- Sidebar user panel (optional) -->
                 <div class="user-panel mt-3 pb-3 mb-3 d-flex">
-                    <div class="image">
-                        <img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
-                    </div>
+                   
                     <div class="info">
                         <a href="#" class="d-block">Alexander Pierce</a>
                     </div>
@@ -64,36 +104,8 @@ to get the desired effect
                     <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
                         <!-- Add icons to the links using the .nav-icon class
                              with font-awesome or any other icon font library -->
-                        <li class="nav-item has-treeview menu-open">
-                            <a href="#" class="nav-link active">
-                                <i class="nav-icon fas fa-tachometer-alt"></i>
-                                <p>
-                                    Dashboard
-                                    <i class="right fas fa-angle-left"></i>
-                                </p>
-                            </a>
-                            <ul class="nav nav-treeview">
-                                <li class="nav-item">
-                                    <a href="./index.html" class="nav-link">
-                                        <i class="far fa-circle nav-icon"></i>
-                                        <p>Dashboard v1</p>
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="./index2.html" class="nav-link">
-                                        <i class="far fa-circle nav-icon"></i>
-                                        <p>Dashboard v2</p>
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="./index3.html" class="nav-link active">
-                                        <i class="far fa-circle nav-icon"></i>
-                                        <p>Dashboard v3</p>
-                                    </a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="nav-item">
+                       
+                        @*<li class="nav-item">
                             <a href="pages/widgets.html" class="nav-link">
                                 <i class="nav-icon fas fa-th"></i>
                                 <p>
@@ -101,8 +113,8 @@ to get the desired effect
                                     <span class="right badge badge-danger">New</span>
                                 </p>
                             </a>
-                        </li>
-                        <li class="nav-item has-treeview">
+                        </li>*@
+                        @*<li class="nav-item has-treeview">
                             <a href="#" class="nav-link">
                                 <i class="nav-icon fas fa-copy"></i>
                                 <p>
@@ -155,8 +167,8 @@ to get the desired effect
                                     </a>
                                 </li>
                             </ul>
-                        </li>
-                        <li class="nav-item has-treeview">
+                        </li>*@
+                        @*<li class="nav-item has-treeview">
                             <a href="#" class="nav-link">
                                 <i class="nav-icon fas fa-chart-pie"></i>
                                 <p>
@@ -243,12 +255,12 @@ to get the desired effect
                                     </a>
                                 </li>
                             </ul>
-                        </li>
+                        </li>*@
                         <li class="nav-item has-treeview">
                             <a href="#" class="nav-link">
                                 <i class="nav-icon fas fa-edit"></i>
                                 <p>
-                                    Forms
+                                    Authorization
                                     <i class="fas fa-angle-left right"></i>
                                 </p>
                             </a>
@@ -256,29 +268,12 @@ to get the desired effect
                                 <li class="nav-item">
                                     <a href="pages/forms/general.html" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
-                                        <p>General Elements</p>
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="pages/forms/advanced.html" class="nav-link">
-                                        <i class="far fa-circle nav-icon"></i>
-                                        <p>Advanced Elements</p>
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="pages/forms/editors.html" class="nav-link">
-                                        <i class="far fa-circle nav-icon"></i>
-                                        <p>Editors</p>
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="pages/forms/validation.html" class="nav-link">
-                                        <i class="far fa-circle nav-icon"></i>
-                                        <p>Validation</p>
+                                        <p>Roles</p>
                                     </a>
                                 </li>
                             </ul>
-                        </li>
+                            </li>
+                               
                         <li class="nav-item has-treeview">
                             <a href="#" class="nav-link">
                                 <i class="nav-icon fas fa-table"></i>
@@ -289,21 +284,27 @@ to get the desired effect
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item">
-                                    <a href="pages/tables/simple.html" class="nav-link">
+                                    <a href="/ServiceTable" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
-                                        <p>Simple Tables</p>
+                                        <p>Service Tables</p>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="pages/tables/data.html" class="nav-link">
+                                    <a href="/AnimalCategoryTable" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
-                                        <p>DataTables</p>
+                                        <p>Animal Category Table</p>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="pages/tables/jsgrid.html" class="nav-link">
+                                    <a href="/ContactTable/List" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
-                                        <p>jsGrid</p>
+                                        <p>Contact Table</p>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="/PetOwnerTable" class="nav-link">
+                                        <i class="far fa-circle nav-icon"></i>
+                                        <p>PetOwner Table</p>
                                     </a>
                                 </li>
                             </ul>
@@ -318,14 +319,7 @@ to get the desired effect
                                 </p>
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a href="pages/gallery.html" class="nav-link">
-                                <i class="nav-icon far fa-image"></i>
-                                <p>
-                                    Gallery
-                                </p>
-                            </a>
-                        </li>
+                        
                         <li class="nav-item has-treeview">
                             <a href="#" class="nav-link">
                                 <i class="nav-icon far fa-envelope"></i>

@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Go_Animal_Shelter.Controllers
 {
 
+	[Authorize(Roles ="Admin")]
 	public class AdminController : Controller
 	{
 		AnimalCategoryManager animalCategoryManager = new AnimalCategoryManager(new EfAnimalCategoryDal());

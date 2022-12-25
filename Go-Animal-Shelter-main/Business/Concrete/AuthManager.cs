@@ -14,6 +14,7 @@ namespace Business.Concrete
     public class AuthManager : IAuthService
     {
         IUsersService _userService;
+
         public AuthManager(IUsersService usersService)
         {
                 _userService= usersService;

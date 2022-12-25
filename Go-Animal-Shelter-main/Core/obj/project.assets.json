@@ -1447,11 +1447,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Beytullah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Beytullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1468,8 +1468,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Beytullah\\Desktop\\Go-Animal-Shelter-main\\Entities\\Entities.csproj"
+            "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Entities\\Entities.csproj"
             }
           }
         }
