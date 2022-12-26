@@ -23,11 +23,24 @@ namespace Go_Animal_Shelter.Controllers
 		public async Task<IActionResult> Login(UserLoginDto userLoginDto)
 		{
 			var user=authManager.Login(userLoginDto);
-			if (user.Data!=null)
-			{
-				
-                var claims = userManager.GetClaims(user.Data,this.claimManager.GetRoles());
+			var oc=this.claimManager.GetUserOperationClaims();
 
+            if (user.Data!=null)
+			{
+				List<string> roles=new List<string>();
+
+
+                foreach (var item in oc)
+				{
+					if (item.UserId==user.Data.UserID)
+					{
+						roles.Add(item.RoleName);
+                    }
+				}
+				
+				
+                var claims = userManager.GetClaims(user.Data,roles);
+				
 			
 
                 var claimsIdentity = new ClaimsIdentity(claims,CookieAuthenticationDefaults.AuthenticationScheme);

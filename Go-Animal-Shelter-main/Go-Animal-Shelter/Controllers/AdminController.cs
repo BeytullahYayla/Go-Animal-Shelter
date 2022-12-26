@@ -7,8 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 namespace Go_Animal_Shelter.Controllers
 {
 
-	[Authorize(Roles ="Admin")]
-	public class AdminController : Controller
+    [Authorize(Roles = "Admin")]
+    public class AdminController : Controller
 	{
 		AnimalCategoryManager animalCategoryManager = new AnimalCategoryManager(new EfAnimalCategoryDal());
 		public IActionResult Index()
@@ -16,7 +16,8 @@ namespace Go_Animal_Shelter.Controllers
 			return View();
 		}
 
-		[HttpGet]
+        
+        [HttpGet]
 		public IActionResult List()
 		{
 			var result=animalCategoryManager.GetAll();

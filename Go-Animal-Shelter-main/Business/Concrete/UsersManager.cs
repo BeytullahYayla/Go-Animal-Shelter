@@ -51,7 +51,7 @@ namespace Business.Concrete
             _usersDal.Update(users);
             return new SuccessResult("Users Updated Succesfuly");
         }
-        public List<Claim> GetClaims(User user, List<OperationClaim> operationClaims)
+        public List<Claim> GetClaims(User user, List<string> roles)
         {
 
             using (var context = new Context())
@@ -68,7 +68,7 @@ namespace Business.Concrete
                 claims.AddNameIdentifier(user.UserID.ToString());
                 claims.AddEmail(user.Email!);
                 claims.AddName($"{user.FirstName} {user.LastName}");
-                claims.AddRoles(operationClaims);
+                claims.AddRoles(roles);
                 return claims;
 
             }

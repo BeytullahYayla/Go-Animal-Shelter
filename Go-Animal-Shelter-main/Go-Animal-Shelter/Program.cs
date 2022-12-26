@@ -7,6 +7,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(
     options =>
     {
+        options.Cookie.Name = "AspnetMvcAuthCookie";
         options.LoginPath = "/Login";
         options.AccessDeniedPath= "/Login";
     }
