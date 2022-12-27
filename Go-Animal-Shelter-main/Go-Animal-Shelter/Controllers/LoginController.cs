@@ -15,6 +15,14 @@ namespace Go_Animal_Shelter.Controllers
 		AuthManager authManager = new AuthManager(new UsersManager(new EfUsersDal()));
 		UsersManager userManager= new UsersManager(new EfUsersDal());
 		OperationClaimManager claimManager=new OperationClaimManager(new EfOperationClaimDal());
+
+		private readonly IHttpContextAccessor _context;
+
+		public LoginController(IHttpContextAccessor contextAccessor)
+		{
+			_context= contextAccessor;
+		}
+
 		public IActionResult Index()
 		{
 			return View();
@@ -27,9 +35,12 @@ namespace Go_Animal_Shelter.Controllers
 
             if (user.Data!=null)
 			{
-				List<string> roles=new List<string>();
 
+                _context.HttpContext.Session.SetString("UserName", user.Data.FirstName + " " + user.Data.LastName);
+                _context.HttpContext.Session.SetInt32("UserId", user.Data.UserID);
+                List<string> roles=new List<string>();
 
+				
                 foreach (var item in oc)
 				{
 					if (item.UserId==user.Data.UserID)
@@ -37,7 +48,7 @@ namespace Go_Animal_Shelter.Controllers
 						roles.Add(item.RoleName);
                     }
 				}
-				
+               
 				
                 var claims = userManager.GetClaims(user.Data,roles);
 				
@@ -46,6 +57,7 @@ namespace Go_Animal_Shelter.Controllers
                 var claimsIdentity = new ClaimsIdentity(claims,CookieAuthenticationDefaults.AuthenticationScheme);
 
                 var authProperties = new AuthenticationProperties();
+				TempData["UserName"] = "Hello "+user.Data.FirstName;
 				
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity), authProperties);
                 return RedirectToAction("Index", "Admin");

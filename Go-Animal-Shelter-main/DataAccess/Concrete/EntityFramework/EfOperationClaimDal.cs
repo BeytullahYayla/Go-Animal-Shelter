@@ -20,10 +20,13 @@ namespace DataAccess.Concrete.EntityFramework
                 var result = from u in context.UserOperationClaims
                              join o in context.OperationClaims
                              on u.OperationClaimID equals o.Id
+                             join user in context.Users
+                             on u.UserID equals user.UserID
                              select new UserOperationClaimDto
                              {
                                  Id = u.Id,
                                  UserId = u.UserID,
+                                 UserName = user.FirstName + " " + user.LastName,
                                  RoleName = o.Name
 
                              };

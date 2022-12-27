@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@inject IHttpContextAccessor contx;
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -53,14 +54,23 @@
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item"><a href="/Home" class="nav-link">Home</a></li>
                         <li class="nav-item"><a href="/About" class="nav-link">About</a></li>
-                        <li class="nav-item"><a href="/Veterinerian" class="nav-link">Veterinarian</a></li>
+                        <li class="nav-item"><a href="/Pet" class="nav-link">Pets</a></li>
+                        <li class="nav-item"><a href="/Veterinerian" class="nav-link">Veterinarians</a></li>
                         <li class="nav-item"><a href="/Services" class="nav-link">Services</a></li>
                         <li class="nav-item"><a href="/Gallery" class="nav-link">Gallery</a></li>
                         <li class="nav-item"><a href="/Pricing" class="nav-link">Pricing</a></li>
                         <li class="nav-item"><a href="/Contact" class="nav-link">Contact</a></li>
-
-                        <li class="nav-item"><a href="/Login" class="nav-link">Login</a></li>
-                        <li class="nav-item"><a href="/Register" class="nav-link">Register</a></li>
+                        @if (!User.IsInRole("User"))
+                        {
+                            <li class="nav-item"><a href="/Login" class="nav-link">Login</a></li>
+                            <li class="nav-item"><a href="/Register" class="nav-link">Register</a></li>
+                        }
+                        
+                        @if (User.IsInRole("User"))
+                        {
+                            <li class="nav-item"><a href="" class="nav-link">@contx.HttpContext.Session.GetString("UserName")</a></li>
+                        }
+                        
 
 
                     </ul>

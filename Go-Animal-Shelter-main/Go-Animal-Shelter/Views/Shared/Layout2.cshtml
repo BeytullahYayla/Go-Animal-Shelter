@@ -1,4 +1,5 @@
-﻿@*
+﻿@inject IHttpContextAccessor context;
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
@@ -14,7 +15,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 
-    <title>AdminLTE 3 | Dashboard 3</title>
+    <title>Dashboard</title>
     
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     @*<link href="~/folder2/css/animate.css" rel="stylesheet" />
@@ -86,7 +87,7 @@ to get the desired effect
             <a href="index3.html" class="brand-link">
                 <img src="~/AdminLTE-3.0.4/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
                      style="opacity: .8">
-                <span class="brand-text font-weight-light">AdminLTE 3</span>
+                <span class="brand-text font-weight-light">Go Shelter</span>
             </a>
 
             <!-- Sidebar -->
@@ -95,7 +96,7 @@ to get the desired effect
                 <div class="user-panel mt-3 pb-3 mb-3 d-flex">
                    
                     <div class="info">
-                        <a href="#" class="d-block">Alexander Pierce</a>
+                        <a href="#" class="d-block">@context.HttpContext.Session.GetString("UserName")</a>
                     </div>
                 </div>
 
@@ -266,7 +267,7 @@ to get the desired effect
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item">
-                                    <a href="pages/forms/general.html" class="nav-link">
+                                    <a href="/UserRoleTable" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Roles</p>
                                     </a>
