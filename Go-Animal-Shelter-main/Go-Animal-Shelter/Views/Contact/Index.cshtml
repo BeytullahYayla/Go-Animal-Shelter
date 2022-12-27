@@ -1,8 +1,11 @@
-﻿@*
+﻿@using Entities.Concrete;
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
 }
+
+@model Contact
 <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
 	<div class="overlay"></div>
 	<div class="container">
@@ -71,35 +74,39 @@
 						<div class="col-md-7">
 							<div class="contact-wrap w-100 p-md-5 p-4">
 								<h3 class="mb-4">Contact Us</h3>
-								<form method="POST" id="contactForm" name="contactForm" class="contactForm">
+								<form asp-action="Add" method="POST" id="contactForm" name="contactForm" class="contactForm">
+									<div asp-validation-summary="ModelOnly" class="text-danger"></div>
 									<div class="row">
 										<div class="col-md-6">
 											<div class="form-group">
-												<label class="label" for="name">Full Name</label>
-												<input type="text" class="form-control" name="name" id="name" placeholder="Name">
+												<label asp-for=FullName class="label" for="name">Full Name</label>
+												<input asp-for=FullName type="text" class="form-control" placeholder="Name">
+												<span asp-validation-for="FullName" class="text-danger"></span>
 											</div>
 										</div>
 										<div class="col-md-6">
 											<div class="form-group">
-												<label class="label" for="email">Email Address</label>
-												<input type="email" class="form-control" name="email" id="email" placeholder="Email">
+												<label asp-for=Email class="label" for="email">Email Address</label>
+												<input asp-for=Email type="email" class="form-control" name="email" id="email" placeholder="Email">
+												<span asp-validation-for="Id" class="text-danger"></span>
 											</div>
 										</div>
 										<div class="col-md-12">
 											<div class="form-group">
-												<label class="label" for="subject">Subject</label>
-												<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
+												<label asp-for=Subject class="label" for="subject">Subject</label>
+												<input asp-for=Subject type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
+												<span asp-validation-for="Id" class="text-danger"></span>
 											</div>
 										</div>
 										<div class="col-md-12">
 											<div class="form-group">
-												<label class="label" for="#">Message</label>
-												<textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Message"></textarea>
+												<label asp-for=Message class="label" for="#">Message</label>
+												<textarea asp-for=Message name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Message"></textarea>
 											</div>
 										</div>
 										<div class="col-md-12">
 											<div class="form-group">
-												<input type="submit" value="Send Message" class="btn btn-primary">
+												<input type="submit" value="Send Message" class="btn btn-primary" id="toastrSuccess" >
 												<div class="submitting"></div>
 											</div>
 										</div>
@@ -119,3 +126,17 @@
 </section>
 
 <div id="map" class="map"></div>
+
+
+@section scripts{
+	<script type="text/javascript">
+		$(function(){
+
+			$("#toastrSuccess").click(function(){
+			    toastr.info("Form sent successfully")
+			});
+
+		})
+	
+	</script>
+}

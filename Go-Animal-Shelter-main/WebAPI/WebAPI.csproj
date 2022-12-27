@@ -16,6 +16,7 @@
     <PackageReference Include="Npgsql" Version="7.0.0" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="toastr" Version="2.1.1" />
   </ItemGroup>
 
   <ItemGroup>

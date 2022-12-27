@@ -4,6 +4,7 @@ using Core.Utilities.Results;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
+using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,13 +17,17 @@ namespace Business.Concrete
     public class UsersManager : IUsersService
     {
         IUsersDal _usersDal;
+        
         public UsersManager(IUsersDal usersDal)
         {
             _usersDal = usersDal;
+            
         }
 
         public IResult Add(User users)
         {
+            
+            
             _usersDal.Add(users);
             return new SuccessResult("Users Added Succesfuly");
         }

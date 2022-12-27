@@ -20,6 +20,7 @@
     <Import Project="$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props" Condition="Exists('$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgjQuery Condition=" '$(PkgjQuery)' == '' ">C:\Users\Beytullah\.nuget\packages\jquery\1.6.3</PkgjQuery>
     <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">C:\Users\Beytullah\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0</PkgMicrosoft_Extensions_ApiDescription_Server>
     <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\Beytullah\.nuget\packages\microsoft.entityframeworkcore.tools\7.0.1</PkgMicrosoft_EntityFrameworkCore_Tools>
     <PkgEntityFramework Condition=" '$(PkgEntityFramework)' == '' ">C:\Users\Beytullah\.nuget\packages\entityframework\6.4.4</PkgEntityFramework>

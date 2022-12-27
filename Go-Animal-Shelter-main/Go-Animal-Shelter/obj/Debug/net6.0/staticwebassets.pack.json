@@ -8369,6 +8369,310 @@
       "PackagePath": "staticwebassets\\AdminLTE-3.0.4\\starter.html"
     },
     {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\.gitattributes",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\.gitignore",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\.jscsrc",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\.jscsrc"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\.jshintrc",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\.travis.yml",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\LICENSE",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\README.md",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\build\\toastr.css",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\build\\toastr.css"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\build\\toastr.js.map",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\build\\toastr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\build\\toastr.min.css",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\build\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\build\\toastr.min.js",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\build\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\demo.html",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\gulpfile.js",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\karma.conf.js",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\karma.conf.js"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\content\\content\\toastr.css",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\content\\content\\toastr.css"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\content\\content\\toastr.less",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\content\\content\\toastr.less"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\content\\content\\toastr.min.css",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\content\\content\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\content\\content\\toastr.scss",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\content\\content\\toastr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\content\\scripts\\toastr.js",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\content\\scripts\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\content\\scripts\\toastr.min.js",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\content\\scripts\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\content\\scripts\\toastr.min.js.map",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\content\\scripts\\toastr.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.0.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.0.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.0.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.0.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.1.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.1.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.2.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.2.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.2.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.2.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.3.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.3.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.3.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.0.3.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.0.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.0.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.0.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.0.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.1.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.1.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.2.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.2.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.2.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.2.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.3.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.3.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.4.1.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.4.1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.4.1.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.4.1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.4.2.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.4.2.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.4.2.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.4.2.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.4.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.4.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.4.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.4.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.5.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.5.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.5.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.1.5.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.2.0.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.2.0.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.2.0.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.2.0.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.2.1.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.2.1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.2.1.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.2.1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.2.2.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.2.2.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.2.2.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.2.2.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.3.0.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.3.0.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.3.0.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.3.0.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.3.1.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.3.1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.3.1.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.1.3.1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.0-rc1.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.0-rc1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.0-rc1.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.0-rc1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.1.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.1.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.2.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.2.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.2.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.2.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.3.nupkg",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.3.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.3.nuspec",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\nuget\\toastr.2.0.3.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\package-lock.json",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\package.json",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\release checklist.md",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\release checklist.md"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\tests\\qunit\\qunit.css",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\tests\\qunit\\qunit.css"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\tests\\qunit\\qunit.js",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\tests\\qunit\\qunit.js"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\tests\\toastr-tests.html",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\tests\\toastr-tests.html"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\tests\\unit\\qunit-helper.js",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\tests\\unit\\qunit-helper.js"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\tests\\unit\\toastr-tests.js",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\tests\\unit\\toastr-tests.js"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\tests\\unit\\x.js",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\tests\\unit\\x.js"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\toastr-icon.png",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\toastr-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\toastr.js",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\toastr.less",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\toastr.less"
+    },
+    {
+      "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\CodeSeven-toastr-50092cc\\toastr.scss",
+      "PackagePath": "staticwebassets\\CodeSeven-toastr-50092cc\\toastr.scss"
+    },
+    {
       "Id": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\adminTemplate\\css\\maps\\vertical-layout-light\\style.css.map",
       "PackagePath": "staticwebassets\\adminTemplate\\css\\maps\\vertical-layout-light\\style.css.map"
     },

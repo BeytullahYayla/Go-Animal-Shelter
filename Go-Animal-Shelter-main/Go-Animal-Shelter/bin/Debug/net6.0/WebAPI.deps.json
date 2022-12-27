@@ -17,7 +17,8 @@
           "Newtonsoft.Json": "13.0.2",
           "Npgsql": "7.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.0",
-          "Swashbuckle.AspNetCore": "6.2.3"
+          "Swashbuckle.AspNetCore": "6.2.3",
+          "toastr": "2.1.1"
         },
         "runtime": {
           "WebAPI.dll": {}
@@ -72,6 +73,7 @@
           }
         }
       },
+      "jQuery/1.6.3": {},
       "Microsoft.CSharp/4.7.0": {},
       "Microsoft.EntityFrameworkCore/7.0.1": {
         "dependencies": {
@@ -588,6 +590,11 @@
           }
         }
       },
+      "toastr/2.1.1": {
+        "dependencies": {
+          "jQuery": "1.6.3"
+        }
+      },
       "Business/1.0.0": {
         "dependencies": {
           "Castle.Core": "5.1.0",
@@ -669,6 +676,13 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "jQuery/1.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vb0p7+eRmc2evBCT9W7PCUupqWiDMi9/ofBHN99LraRzLY5jPKMeFzFYBoMgwA8TiwRoFDke5hiDDLsvae7qMg==",
+      "path": "jquery/1.6.3",
+      "hashPath": "jquery.1.6.3.nupkg.sha512"
     },
     "Microsoft.CSharp/4.7.0": {
       "type": "package",
@@ -1040,6 +1054,13 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "toastr/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h/688XvzYk1xVYn213ryU+HCElE4n/drYzAHJkAi9LsSUPS3EbI6wGlvCglBUt7i4h5iESgAVarYaigjQmVpqg==",
+      "path": "toastr/2.1.1",
+      "hashPath": "toastr.2.1.1.nupkg.sha512"
     },
     "Business/1.0.0": {
       "type": "project",

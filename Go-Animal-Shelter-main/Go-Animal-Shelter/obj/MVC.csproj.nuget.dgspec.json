@@ -387,6 +387,10 @@
             "Npgsql": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "toastr": {
+              "target": "Package",
+              "version": "[2.1.1, )"
             }
           },
           "imports": [
@@ -486,6 +490,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "toastr": {
+              "target": "Package",
+              "version": "[2.1.1, )"
             }
           },
           "imports": [

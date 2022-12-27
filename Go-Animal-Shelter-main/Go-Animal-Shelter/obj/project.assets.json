@@ -77,6 +77,9 @@
           }
         }
       },
+      "jQuery/1.6.3": {
+        "type": "package"
+      },
       "MessagePack/2.1.152": {
         "type": "package",
         "dependencies": {
@@ -3708,6 +3711,12 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "toastr/2.1.1": {
+        "type": "package",
+        "dependencies": {
+          "jQuery": "1.6.3"
+        }
+      },
       "Business/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -3786,7 +3795,8 @@
           "Newtonsoft.Json": "13.0.2",
           "Npgsql": "7.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.0",
-          "Swashbuckle.AspNetCore": "6.2.3"
+          "Swashbuckle.AspNetCore": "6.2.3",
+          "toastr": "2.1.1"
         },
         "compile": {
           "bin/placeholder/WebAPI.dll": {}
@@ -3919,6 +3929,24 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "jQuery/1.6.3": {
+      "sha512": "vb0p7+eRmc2evBCT9W7PCUupqWiDMi9/ofBHN99LraRzLY5jPKMeFzFYBoMgwA8TiwRoFDke5hiDDLsvae7qMg==",
+      "type": "package",
+      "path": "jquery/1.6.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Scripts/jquery-1.6.3-vsdoc.js",
+        "Content/Scripts/jquery-1.6.3.js",
+        "Content/Scripts/jquery-1.6.3.min.js",
+        "Tools/install.ps1",
+        "Tools/jquery-1.6.3-vsdoc-para.js",
+        "Tools/uninstall.ps1",
+        "jquery.1.6.3.nupkg.sha512",
+        "jquery.nuspec"
       ]
     },
     "MessagePack/2.1.152": {
@@ -10750,6 +10778,23 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "toastr/2.1.1": {
+      "sha512": "h/688XvzYk1xVYn213ryU+HCElE4n/drYzAHJkAi9LsSUPS3EbI6wGlvCglBUt7i4h5iESgAVarYaigjQmVpqg==",
+      "type": "package",
+      "path": "toastr/2.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/content/toastr.css",
+        "content/content/toastr.less",
+        "content/content/toastr.min.css",
+        "content/content/toastr.scss",
+        "content/scripts/toastr.js",
+        "content/scripts/toastr.min.js",
+        "toastr.2.1.1.nupkg.sha512",
+        "toastr.nuspec"
+      ]
+    },
     "Business/1.0.0": {
       "type": "project",
       "path": "../Business/Business.csproj",
@@ -10783,7 +10828,8 @@
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.1",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.11",
       "Npgsql >= 7.0.0",
-      "WebAPI >= 1.0.0"
+      "WebAPI >= 1.0.0",
+      "toastr >= 2.1.1"
     ]
   },
   "packageFolders": {
@@ -10849,6 +10895,10 @@
           "Npgsql": {
             "target": "Package",
             "version": "[7.0.0, )"
+          },
+          "toastr": {
+            "target": "Package",
+            "version": "[2.1.1, )"
           }
         },
         "imports": [

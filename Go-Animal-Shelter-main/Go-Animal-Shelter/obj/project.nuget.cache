@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "c8t93Hc5ioYs8xEinYoBQ7tULzPE/x/1fHqx9EW7UTx5dQRT13YBxawni0MMmcB20OH9fDVJ1WPxZdx96swIqA==",
+  "dgSpecHash": "Pb6wNwhEWbFXxaYlozL7QkbyZXIyzJD4Wx12ugiqtKc04u8wibh1JvtrX/CTiOT6jhH6bR70hhIWxTYkQOQmkw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\MVC.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Beytullah\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Beytullah\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Beytullah\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Beytullah\\.nuget\\packages\\jquery\\1.6.3\\jquery.1.6.3.nupkg.sha512",
     "C:\\Users\\Beytullah\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Beytullah\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\Beytullah\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
@@ -188,7 +189,8 @@
     "C:\\Users\\Beytullah\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Beytullah\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\Beytullah\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Beytullah\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Beytullah\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Beytullah\\.nuget\\packages\\toastr\\2.1.1\\toastr.2.1.1.nupkg.sha512"
   ],
   "logs": []
 }
