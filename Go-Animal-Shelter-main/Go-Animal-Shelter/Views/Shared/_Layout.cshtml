@@ -1,4 +1,7 @@
 ﻿@inject IHttpContextAccessor contx;
+@using System.Globalization
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer localizer
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,25 +58,28 @@
                 </button>
                 <div class="collapse navbar-collapse" id="ftco-nav">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item"><a href="/Home" class="nav-link">Home</a></li>
-                        <li class="nav-item"><a href="/About" class="nav-link">About</a></li>
-                        <li class="nav-item"><a href="/Pet" class="nav-link">Pets</a></li>
-                        <li class="nav-item"><a href="/Veterinerian" class="nav-link">Veterinarians</a></li>
-                        <li class="nav-item"><a href="/Services" class="nav-link">Services</a></li>
-                        <li class="nav-item"><a href="/Gallery" class="nav-link">Gallery</a></li>
-                        <li class="nav-item"><a href="/Pricing" class="nav-link">Pricing</a></li>
-                        <li class="nav-item"><a href="/Contact" class="nav-link">Contact</a></li>
+                        <li class="nav-item"><a href="/Home" class="nav-link">@localizer["HOME"]</a></li>
+                        <li class="nav-item"><a href="/About" class="nav-link">@localizer["ABOUT"]</a></li>
+                        <li class="nav-item"><a href="/Pet" class="nav-link">@localizer["PETS"]</a></li>
+                        <li class="nav-item"><a href="/Veterinerian" class="nav-link">@localizer["VETERINARIANS"]</a></li>
+                        <li class="nav-item"><a href="/Services" class="nav-link">@localizer["SERVICES"]</a></li>
+                        <li class="nav-item"><a href="/Gallery" class="nav-link">@localizer["GALLERY"]</a></li>
+                        <li class="nav-item"><a href="/Pricing" class="nav-link">@localizer["PRICING"]</a></li>
+                        <li class="nav-item"><a href="/Contact" class="nav-link">@localizer["CONTACT"]</a></li>
+
                         @if (!User.IsInRole("User"))
                         {
-                            <li class="nav-item"><a href="/Login" class="nav-link">Login</a></li>
-                            <li class="nav-item"><a href="/Register" class="nav-link">Register</a></li>
+                            <li class="nav-item"><a href="/Login" class="nav-link">@localizer["LOG IN"]</a></li>
+                            <li class="nav-item"><a href="/Register" class="nav-link">@localizer["REGISTER"]</a></li>
                         }
                         
                         @if (User.IsInRole("User"))
                         {
                             <li class="nav-item"><a href="" class="nav-link">@contx.HttpContext.Session.GetString("UserName")</a></li>
                         }
-                        
+                        <div class="p-4">
+                            <partial name="_SelectLanguage" />
+                        </div>
 
 
                     </ul>

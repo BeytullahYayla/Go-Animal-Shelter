@@ -5,12 +5,13 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Beytullah\.nuget\packages\</NuGetPackageFolders>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\sserc\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.4.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\Beytullah\.nuget\packages\" />
+    <SourceRoot Include="C:\Users\sserc\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.1\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.1\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props')" />
@@ -18,12 +19,12 @@
     <Import Project="$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props" Condition="Exists('$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgjQuery Condition=" '$(PkgjQuery)' == '' ">C:\Users\Beytullah\.nuget\packages\jquery\1.6.3</PkgjQuery>
-    <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">C:\Users\Beytullah\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0</PkgMicrosoft_Extensions_ApiDescription_Server>
-    <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\Beytullah\.nuget\packages\microsoft.entityframeworkcore.tools\7.0.1</PkgMicrosoft_EntityFrameworkCore_Tools>
-    <PkgEntityFramework Condition=" '$(PkgEntityFramework)' == '' ">C:\Users\Beytullah\.nuget\packages\entityframework\6.4.4</PkgEntityFramework>
-    <PkgMessagePackAnalyzer Condition=" '$(PkgMessagePackAnalyzer)' == '' ">C:\Users\Beytullah\.nuget\packages\messagepackanalyzer\2.1.152</PkgMessagePackAnalyzer>
-    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\Beytullah\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2</PkgMicrosoft_CodeAnalysis_Analyzers>
-    <PkgMicrosoft_CodeAnalysis_AnalyzerUtilities Condition=" '$(PkgMicrosoft_CodeAnalysis_AnalyzerUtilities)' == '' ">C:\Users\Beytullah\.nuget\packages\microsoft.codeanalysis.analyzerutilities\3.3.0</PkgMicrosoft_CodeAnalysis_AnalyzerUtilities>
+    <PkgjQuery Condition=" '$(PkgjQuery)' == '' ">C:\Users\sserc\.nuget\packages\jquery\1.6.3</PkgjQuery>
+    <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">C:\Users\sserc\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0</PkgMicrosoft_Extensions_ApiDescription_Server>
+    <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\sserc\.nuget\packages\microsoft.entityframeworkcore.tools\7.0.1</PkgMicrosoft_EntityFrameworkCore_Tools>
+    <PkgEntityFramework Condition=" '$(PkgEntityFramework)' == '' ">C:\Users\sserc\.nuget\packages\entityframework\6.4.4</PkgEntityFramework>
+    <PkgMessagePackAnalyzer Condition=" '$(PkgMessagePackAnalyzer)' == '' ">C:\Users\sserc\.nuget\packages\messagepackanalyzer\2.1.152</PkgMessagePackAnalyzer>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\sserc\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgMicrosoft_CodeAnalysis_AnalyzerUtilities Condition=" '$(PkgMicrosoft_CodeAnalysis_AnalyzerUtilities)' == '' ">C:\Users\sserc\.nuget\packages\microsoft.codeanalysis.analyzerutilities\3.3.0</PkgMicrosoft_CodeAnalysis_AnalyzerUtilities>
   </PropertyGroup>
 </Project>

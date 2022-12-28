@@ -1,9 +1,41 @@
+using Go_Animal_Shelter;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Mvc.Razor;
+using Microsoft.Extensions.Localization;
+using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Add services to the container with language
+builder.Services.AddLocalization();
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSingleton<IStringLocalizerFactory, JsonStringLocalizerFactory>();
+
+builder.Services.AddMvc()
+    .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
+    .AddDataAnnotationsLocalization(options =>
+    {
+        options.DataAnnotationLocalizerProvider = (type, factory) =>
+            factory.Create(typeof(JsonStringLocalizerFactory));
+    });
+
+builder.Services.Configure<RequestLocalizationOptions>(options =>
+{
+    var supportedCultures = new[]
+    {
+        new CultureInfo("en-US"),
+        new CultureInfo("tr-TR")
+    };
+
+    //options.DefaultRequestCulture = new RequestCulture(culture: supportedCultures[0], uiCulture: supportedCultures[0]);
+    options.SupportedCultures = supportedCultures;
+    options.SupportedUICultures = supportedCultures;
+});
+//language
+
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(
     options =>
     {
@@ -34,6 +66,15 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+//language
+var supportedCultures = new[] { "en-US", "ar-EG", "de-DE" };
+var localizationOptions = new RequestLocalizationOptions()
+    //.SetDefaultCulture(supportedCultures[0])
+    .AddSupportedCultures(supportedCultures)
+    .AddSupportedUICultures(supportedCultures);
+app.UseRequestLocalization(localizationOptions);
+//language
+
 
 app.UseAuthentication();
 app.UseAuthorization();
