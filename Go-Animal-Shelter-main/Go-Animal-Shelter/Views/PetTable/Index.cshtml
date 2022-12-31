@@ -1,0 +1,91 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@using Entities.DTOs;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "Layout2";
+}
+
+@model List<PetDto>
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <table class="table table-bordered">
+                <tr>
+                    <th>
+                        Pet Id
+                    </th>
+                    <th>
+                        Pet Name
+                    </th>
+                    <th>
+                        Animal Category Name
+                    </th>
+                    <th>
+                        Species Name
+                    </th>
+                    <th>
+                        Pet Owner Name
+                    </th>
+                    <th>
+                        Age
+                    </th>
+                   <th>
+                       Description
+                   </th>
+
+                    <th>
+                        Delete
+                    </th>
+                    <th>
+                        Edit
+                    </th>
+
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PetId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PetName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.AnimalCategoryName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SpeciesName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PetOwnerName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Age)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Description)
+                        </td>
+                        <td>
+                            <a asp-action="Delete" asp-route-id="@item.PetId" class="btn btn-danger">Delete</a>
+                        </td>
+                        <td>
+                            <a asp-action="Update" asp-route-id="@item.PetId" class="btn btn-warning">Edit</a>
+                        </td>
+
+                    </tr>
+                }
+            </table>
+            <div class="form-group">
+                <a asp-action="Add" class="btn btn-primary">Create New</a>
+            </div>
+        </div>
+    </div>
+</div>
+

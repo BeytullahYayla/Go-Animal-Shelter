@@ -15,7 +15,7 @@ namespace Entities.DTOs
         public int SpeciesId { get; set; }
         public string PetName { get; set;}
 
-       
+        public string PetOwnerName { get; set; }
         public string AnimalCategoryName { get; set; }
         public string SpeciesName { get; set;}
         public int Age { get; set; }

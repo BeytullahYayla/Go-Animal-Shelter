@@ -1,4 +1,5 @@
-﻿using Business.Concrete;
+﻿using AspNetCoreHero.ToastNotification.Abstractions;
+using Business.Concrete;
 using Core.Extensions;
 using DataAccess.Concrete.EntityFramework;
 using Entities.DTOs;
@@ -15,11 +16,14 @@ namespace Go_Animal_Shelter.Controllers
 		AuthManager authManager = new AuthManager(new UsersManager(new EfUsersDal()));
 		UsersManager userManager= new UsersManager(new EfUsersDal());
 		OperationClaimManager claimManager=new OperationClaimManager(new EfOperationClaimDal());
+		private INotyfService _toastrNotify;
+
 
 		private readonly IHttpContextAccessor _context;
 
-		public LoginController(IHttpContextAccessor contextAccessor)
+		public LoginController(IHttpContextAccessor contextAccessor,INotyfService notyfService)
 		{
+			_toastrNotify= notyfService;
 			_context= contextAccessor;
 		}
 
@@ -60,11 +64,12 @@ namespace Go_Animal_Shelter.Controllers
 				TempData["UserName"] = "Hello "+user.Data.FirstName;
 				
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity), authProperties);
-                return RedirectToAction("Index", "Admin");
+				_toastrNotify.Success("Giris Basarili");
+				return RedirectToAction("Index", "Admin");
                 
             }
 
-			
+			_toastrNotify.Error(user.Message);
 			return RedirectToAction("Index", "Login");
 			
 		}

@@ -2,10 +2,12 @@
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Go_Animal_Shelter.Controllers
 {
+    [Authorize(Roles ="Admin")]
     public class ContactTableController : Controller
     {
         ContactManager contactManager = new ContactManager(new EfContactDal());

@@ -1,14 +1,18 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using Business.Concrete;
+using DataAccess.Concrete.EntityFramework;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Go_Animal_Shelter.Controllers
 {
     public class PetTableController : Controller
     {
-        [Authorize(Roles ="Admin")]
+
+        PetManager petManager = new PetManager(new EfPetDal());
         public IActionResult Index()
         {
-            return View();
+            var result=petManager.GetPetDetails();
+            return View(result.Data);
         }
     }
 }
