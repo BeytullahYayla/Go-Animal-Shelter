@@ -68,5 +68,13 @@ namespace Go_Animal_Shelter.Controllers
 			return RedirectToAction("Index", "Login");
 			
 		}
+
+
+		[HttpGet]
+		public async Task<IActionResult> Logout()
+		{
+			await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+			return RedirectToAction("Index", "Home");
+		}
 	}
 }

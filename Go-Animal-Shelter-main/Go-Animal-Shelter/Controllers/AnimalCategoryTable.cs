@@ -1,11 +1,13 @@
 ﻿using Business.Concrete;
 using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
 namespace Go_Animal_Shelter.Controllers
 {
+    [Authorize(Roles ="Admin")]
     public class AnimalCategoryTable : Controller
     {
         AnimalCategoryManager animalCategoryManager = new AnimalCategoryManager(new EfAnimalCategoryDal());

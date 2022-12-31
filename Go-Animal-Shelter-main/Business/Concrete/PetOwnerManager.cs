@@ -1,7 +1,6 @@
 ﻿using Business.Abstract;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
-using DataAccess.Migrations;
 using Entities.Concrete;
 using System;
 using System.Collections.Generic;
@@ -9,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Entities.Concrete;
+using Entities.DTOs;
 
 namespace Business.Concrete
 {
@@ -41,6 +41,11 @@ namespace Business.Concrete
         public IDataResult<Entities.Concrete.PetOwner> GetById(int id)
         {
             return new SuccessDataResult<Entities.Concrete.PetOwner>(_petOwnerDal.Get(p => p.PetOwnerId == id));
+        }
+
+        public IDataResult<List<PetOwnerDto>> GetDetails()
+        {
+            return new SuccessDataResult<List<PetOwnerDto>>(_petOwnerDal.GetDetails(),"Details Listed Successfully");
         }
 
         public IResult Update(Entities.Concrete.PetOwner petOwner)

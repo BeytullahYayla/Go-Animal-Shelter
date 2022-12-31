@@ -10,15 +10,12 @@ namespace Entities.DTOs
     public class PetDto:IDto
     {
         public int PetId { get; set; }
-        public int PetOwnerId { get; set; }
         public int AnimalCategoryId { get; set; }
 
         public int SpeciesId { get; set; }
         public string PetName { get; set;}
 
-        public string PetOwnerName { get; set; }
-        public string PetOwnerSurname { get; set; }
-
+       
         public string AnimalCategoryName { get; set; }
         public string SpeciesName { get; set;}
         public int Age { get; set; }

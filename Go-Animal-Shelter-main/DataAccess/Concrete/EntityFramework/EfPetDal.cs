@@ -22,8 +22,7 @@ namespace DataAccess.Concrete.EntityFramework
                              on pe.AnimalCategoryId equals ac.Id
                              join sp in context.Species
                              on pe.AnimalSpeciesId equals sp.Id
-                             join po in context.PetsOwners
-                             on pe.PetOwnerId equals po.PetOwnerId
+                            
 
                              select new PetDto
                              {
@@ -35,9 +34,8 @@ namespace DataAccess.Concrete.EntityFramework
                                  Description = pe.Description,
                                  ImagePath = pe.ImagePath,
                                  PetName = pe.Name,
-                                 PetOwnerId = po.PetOwnerId,
-                                 PetOwnerName = po.FirstName,
-                                 PetOwnerSurname = po.LastName,
+                                
+                                 
                                  SpeciesName = sp.Name
 
                              };

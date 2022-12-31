@@ -26,9 +26,7 @@
                     <th>
                         Update
                     </th>
-                    <th>
-                        Details
-                    </th>
+                    
                 </tr>
                 @foreach (var item in Model)
                 {
@@ -48,9 +46,7 @@
                         <td>
                             <a asp-action="Update" asp-route-id="@item.ServiceId" class="btn btn-warning">Edit</a>
                         </td>
-                        <td>
-                            <a asp-action="Details" asp-route-id="@item.ServiceId" class="btn btn-primary">Details</a>
-                        </td>
+                        
                     </tr>
                 }
             </table>

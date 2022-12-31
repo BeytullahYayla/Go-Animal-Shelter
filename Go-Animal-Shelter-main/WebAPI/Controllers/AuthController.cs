@@ -1,4 +1,6 @@
 ﻿using Business.Abstract;
+using DataAccess.Concrete.EntityFramework;
+using Entities.Concrete;
 using Entities.DTOs;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -10,6 +12,7 @@ namespace WebAPI.Controllers
     public class AuthController : ControllerBase
     {
         private IAuthService _authService;
+        
         public AuthController(IAuthService authService)
         {
             _authService = authService;
@@ -31,6 +34,7 @@ namespace WebAPI.Controllers
         [HttpPost("register")]
         public ActionResult Register(UserRegisterDto userForRegisterDto)
         {
+
             var userExists = _authService.UserExists(userForRegisterDto.Email);
             if (userExists.Success)
             {
@@ -40,6 +44,9 @@ namespace WebAPI.Controllers
            
             if (registerResult.Success)
             {
+                
+                
+                
                 return Ok(registerResult);
             }
             return BadRequest();

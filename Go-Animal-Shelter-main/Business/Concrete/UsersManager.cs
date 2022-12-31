@@ -18,6 +18,7 @@ namespace Business.Concrete
     {
         IUsersDal _usersDal;
         
+        
         public UsersManager(IUsersDal usersDal)
         {
             _usersDal = usersDal;
@@ -26,7 +27,7 @@ namespace Business.Concrete
 
         public IResult Add(User users)
         {
-            
+
             
             _usersDal.Add(users);
             return new SuccessResult("Users Added Succesfuly");

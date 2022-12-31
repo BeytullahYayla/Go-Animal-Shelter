@@ -51,7 +51,7 @@
     </div>
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
-            <div class="container">
+           
                 <a class="navbar-brand" href="index.html"><span class="flaticon-pawprint-1 mr-2"></span>Pet sitting</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="fa fa-bars"></span> Menu
@@ -67,24 +67,33 @@
                         <li class="nav-item"><a href="/Pricing" class="nav-link">@localizer["PRICING"]</a></li>
                         <li class="nav-item"><a href="/Contact" class="nav-link">@localizer["CONTACT"]</a></li>
 
-                        @if (!User.IsInRole("User"))
+                        @if (!User.IsInRole("User")&&!User.IsInRole("Admin"))
                         {
                             <li class="nav-item"><a href="/Login" class="nav-link">@localizer["LOG IN"]</a></li>
                             <li class="nav-item"><a href="/Register" class="nav-link">@localizer["REGISTER"]</a></li>
                         }
+                   
+                   
                         
                         @if (User.IsInRole("User"))
                         {
-                            <li class="nav-item"><a href="" class="nav-link">@contx.HttpContext.Session.GetString("UserName")</a></li>
+                            <li class="nav-item"><a href="/Home" class="nav-link">@contx.HttpContext.Session.GetString("UserName")</a></li>
+                            <li class="nav-item"><a href="/Login/Logout" class="nav-link">Logout</a></li>
                         }
-                        <div class="p-4">
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <li class="nav-item"><a href="/Home" class="nav-link">@contx.HttpContext.Session.GetString("UserName")</a></li>
+                        <li class="nav-item"><a href="/Admin" class="nav-link">Admin Page</a></li>
+                        <li class="nav-item"><a href="/Login/Logout" class="nav-link">Logout</a></li>
+                    }
+                        <li class="nav-item">
                             <partial name="_SelectLanguage" />
-                        </div>
+                        </li>
 
 
                     </ul>
                 </div>
-            </div>
+            
         </nav>
     </header>
 

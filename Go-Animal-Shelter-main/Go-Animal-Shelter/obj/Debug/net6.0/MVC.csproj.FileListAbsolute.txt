@@ -1459,3 +1459,5 @@ C:\Users\sserc\OneDrive\Belgeler\GitHub\Go-Animal-Shelter\Go-Animal-Shelter-main
 C:\Users\sserc\OneDrive\Belgeler\GitHub\Go-Animal-Shelter\Go-Animal-Shelter-main\Go-Animal-Shelter\obj\Debug\net6.0\ref\MVC.dll
 C:\Users\sserc\OneDrive\Belgeler\GitHub\Go-Animal-Shelter\Go-Animal-Shelter-main\Go-Animal-Shelter\bin\Debug\net6.0\Resources\en-US.json
 C:\Users\sserc\OneDrive\Belgeler\GitHub\Go-Animal-Shelter\Go-Animal-Shelter-main\Go-Animal-Shelter\bin\Debug\net6.0\Resources\tr-TR.json
+C:\Users\Beytullah\Documents\GitHub\Go-Animal-Shelter\Go-Animal-Shelter-main\Go-Animal-Shelter\bin\Debug\net6.0\Resources\en-US.json
+C:\Users\Beytullah\Documents\GitHub\Go-Animal-Shelter\Go-Animal-Shelter-main\Go-Animal-Shelter\bin\Debug\net6.0\Resources\tr-TR.json

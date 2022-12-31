@@ -1,0 +1,53 @@
+﻿@model Entities.Concrete.PetOwner
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "Layout2";
+}
+
+<br />
+<div class="content-wrapper">
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Update">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="PetOwnerId" class="control-label"></label>
+                    <input asp-for="PetOwnerId" class="form-control" />
+                    <span asp-validation-for="PetOwnerId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="FirstName" class="control-label"></label>
+                    <input asp-for="FirstName" class="form-control" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="LastName" class="control-label"></label>
+                    <input asp-for="LastName" class="form-control" />
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label"></label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Tel" class="control-label"></label>
+                    <input asp-for="Tel" class="form-control" />
+                    <span asp-validation-for="Tel" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PetId" class="control-label"></label>
+                    <input asp-for="PetId" class="form-control" />
+                    <span asp-validation-for="PetId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>

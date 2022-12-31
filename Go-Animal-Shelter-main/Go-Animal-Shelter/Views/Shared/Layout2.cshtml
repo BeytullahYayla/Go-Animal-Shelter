@@ -4,6 +4,8 @@
 *@
 @{
 }
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer localizer
 
 
 
@@ -50,6 +52,43 @@ to get the desired effect
 |               | sidebar-mini                            |
 |---------------------------------------------------------|
 -->
+<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+
+    <a class="navbar-brand" href="index.html"><span class="flaticon-pawprint-1 mr-2"></span>Pet sitting</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="fa fa-bars"></span> Menu
+    </button>
+    <div class="collapse navbar-collapse" id="ftco-nav">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a href="/Home" class="nav-link">@localizer["HOME"]</a></li>
+            <li class="nav-item"><a href="/About" class="nav-link">@localizer["ABOUT"]</a></li>
+            <li class="nav-item"><a href="/Pet" class="nav-link">@localizer["PETS"]</a></li>
+            <li class="nav-item"><a href="/Veterinerian" class="nav-link">@localizer["VETERINARIANS"]</a></li>
+            <li class="nav-item"><a href="/Services" class="nav-link">@localizer["SERVICES"]</a></li>
+            <li class="nav-item"><a href="/Gallery" class="nav-link">@localizer["GALLERY"]</a></li>
+            <li class="nav-item"><a href="/Pricing" class="nav-link">@localizer["PRICING"]</a></li>
+            <li class="nav-item"><a href="/Contact" class="nav-link">@localizer["CONTACT"]</a></li>
+
+            @if (!User.IsInRole("Admin"))
+            {
+                <li class="nav-item"><a href="/Login" class="nav-link">@localizer["LOG IN"]</a></li>
+                <li class="nav-item"><a href="/Register" class="nav-link">@localizer["REGISTER"]</a></li>
+            }
+
+            @if (User.IsInRole("Admin"))
+            {
+                <li class="nav-item"><a href="/Admin" class="nav-link">@context.HttpContext.Session.GetString("UserName")</a></li>
+                <li class="nav-item"><a href="/Login/Logout" class="nav-link">Logout</a></li>
+            }
+            <li class="nav-item">
+                <partial name="_SelectLanguage" />
+            </li>
+
+
+        </ul>
+    </div>
+
+</nav>
 <body class="hold-transition sidebar-mini">
    
    @* <header>
@@ -291,7 +330,7 @@ to get the desired effect
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="/AnimalCategoryTable" class="nav-link">
+                                    <a href="/Admin/list" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Animal Category Table</p>
                                     </a>

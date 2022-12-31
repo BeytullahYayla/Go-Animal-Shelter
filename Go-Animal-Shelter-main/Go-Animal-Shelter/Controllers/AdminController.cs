@@ -29,12 +29,12 @@ namespace Go_Animal_Shelter.Controllers
 			
 		}
 
-		public IActionResult AddAnimalCategory()
+		public IActionResult Add()
 		{
 			return View();
 		}
 		[HttpPost]
-		public IActionResult AddAnimalCategory(AnimalCategory animalCategory)
+		public IActionResult Add(AnimalCategory animalCategory)
 		{
 			var result=animalCategoryManager.Add(animalCategory);
 			if (result.Success)
