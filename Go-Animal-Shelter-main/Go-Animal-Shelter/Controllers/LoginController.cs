@@ -34,42 +34,50 @@ namespace Go_Animal_Shelter.Controllers
 		[HttpPost]
 		public async Task<IActionResult> Login(UserLoginDto userLoginDto)
 		{
-			var user=authManager.Login(userLoginDto);
-			var oc=this.claimManager.GetUserOperationClaims();
 
-            if (user.Data!=null)
+
+			if (ModelState.IsValid)
 			{
 
-                _context.HttpContext.Session.SetString("UserName", user.Data.FirstName + " " + user.Data.LastName);
-                _context.HttpContext.Session.SetInt32("UserId", user.Data.UserID);
-                List<string> roles=new List<string>();
 
-				
-                foreach (var item in oc)
+				var user = authManager.Login(userLoginDto);
+				var oc = this.claimManager.GetUserOperationClaims();
+
+				if (user.Data != null)
 				{
-					if (item.UserId==user.Data.UserID)
+
+					_context.HttpContext.Session.SetString("UserName", user.Data.FirstName + " " + user.Data.LastName);
+					_context.HttpContext.Session.SetInt32("UserId", user.Data.UserID);
+					List<string> roles = new List<string>();
+
+
+					foreach (var item in oc)
 					{
-						roles.Add(item.RoleName);
-                    }
+						if (item.UserId == user.Data.UserID)
+						{
+							roles.Add(item.RoleName);
+						}
+					}
+
+
+					var claims = userManager.GetClaims(user.Data, roles);
+
+
+
+					var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+
+					var authProperties = new AuthenticationProperties();
+					TempData["UserName"] = "Hello " + user.Data.FirstName;
+
+					await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity), authProperties);
+					_toastrNotify.Success("Giris Basarili");
+					return RedirectToAction("Index", "Admin");
+
+
 				}
-               
-				
-                var claims = userManager.GetClaims(user.Data,roles);
-				
+			}
+
 			
-
-                var claimsIdentity = new ClaimsIdentity(claims,CookieAuthenticationDefaults.AuthenticationScheme);
-
-                var authProperties = new AuthenticationProperties();
-				TempData["UserName"] = "Hello "+user.Data.FirstName;
-				
-                await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity), authProperties);
-				_toastrNotify.Success("Giris Basarili");
-				return RedirectToAction("Index", "Admin");
-                
-            }
-
-			_toastrNotify.Error(user.Message);
 			return RedirectToAction("Index", "Login");
 			
 		}

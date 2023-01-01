@@ -4,7 +4,8 @@
 @{
 }
 
-@using Entities.Concrete;
+
+@using Entities.DTOs;
 
 @*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -13,7 +14,7 @@
     Layout = "Layout2";
 }
 
-@model List<Pet>
+@model List<PetDto>
 <div class="main-panel">
     <div class="content-wrapper">
         <div class="row">
@@ -53,19 +54,19 @@
                 {
                     <tr>
                         <td>
-                            @Html.DisplayFor(modelItem => item.Id)
+                            @Html.DisplayFor(modelItem => item.PetId)
                         </td>
                         <td>
-                            @Html.DisplayFor(modelItem => item.Name)
+                            @Html.DisplayFor(modelItem => item.PetName)
                         </td>
                         <td>
-                            @Html.DisplayFor(modelItem => item.animalCategory.Name)
+                            @Html.DisplayFor(modelItem => item.AnimalCategoryName)
                         </td>
                         <td>
-                            @Html.DisplayFor(modelItem => item.species.Name)
+                            @Html.DisplayFor(modelItem => item.SpeciesName)
                         </td>
                         <td>
-                            @Html.DisplayFor(modelItem => item.petOwner.FirstName)
+                            @Html.DisplayFor(modelItem => item.PetOwnerName)
                         </td>
                         <td>
                             @Html.DisplayFor(modelItem => item.Age)
@@ -74,10 +75,10 @@
                             @Html.DisplayFor(modelItem => item.Description)
                         </td>
                         <td>
-                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                            <a asp-action="Delete" asp-route-id="@item.PetId" class="btn btn-danger">Delete</a>
                         </td>
                         <td>
-                            <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+                            <a asp-action="Update" asp-route-id="@item.PetId" class="btn btn-warning">Edit</a>
                         </td>
 
                     </tr>

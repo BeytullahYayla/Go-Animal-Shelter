@@ -35,12 +35,17 @@ namespace Go_Animal_Shelter.Controllers
         }
 
         [HttpPost]
-        public IActionResult Add(Service service) { 
-                var result = serviceManager.Add(service);
-            if (result.Success)
+        public IActionResult Add(Service service) {
+            if (ModelState.IsValid)
             {
-                return RedirectToAction("List");
+                var result = serviceManager.Add(service);
+                if (result.Success)
+                {
+                    return RedirectToAction("List");
+                }
+
             }
+             
             return View();
         
         }

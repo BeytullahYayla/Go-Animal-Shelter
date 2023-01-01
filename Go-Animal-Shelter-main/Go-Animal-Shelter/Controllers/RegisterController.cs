@@ -20,19 +20,27 @@ namespace Go_Animal_Shelter.Controllers
 		[HttpPost]
 		public IActionResult Register(UserRegisterDto userRegisterDto,string password)
 		{
+
+
+			if (ModelState.IsValid)
+			{
 			var isUserExists = authManager.UserExists(userRegisterDto.Email);
 			var result=authManager.Register(userRegisterDto,password);
+                if (!isUserExists.Success)
+                {
+
+                    UserOperationClaim userOperationClaim = new UserOperationClaim();
+                    //Sisteme eklenen kullanıcının rolü otomatik olarak user olarak atanır.
+                    userOperationClaim.UserID = result.Data.UserID;
+                    userOperationClaim.OperationClaimID = 2;
+                    userOperationClaimManager.Add(userOperationClaim);
+                    return View("Index");
+
+
+                }
+            }
 			
-			if (!isUserExists.Success)
-			{
-				UserOperationClaim userOperationClaim = new UserOperationClaim();
-				//Sisteme eklenen kullanıcının rolü otomatik olarak user olarak atanır.
-				userOperationClaim.UserID = result.Data.UserID;
-				userOperationClaim.OperationClaimID = 2;
-				userOperationClaimManager.Add(userOperationClaim);
-				return View("Index");
-			}
-			return View("/Home");
+			return View("Index");
 
 		}
 	}
