@@ -19,6 +19,6 @@ namespace Business.Abstract
 
         IDataResult<PetOwner> GetById(int id);
 
-        IDataResult<List<PetOwnerDto>> GetDetails();
+       
     }
 }

@@ -12,7 +12,7 @@ namespace DataAccess.Abstract
 {
     public interface IPetOwnerDal:IEntityRepository<PetOwner>
     {
-        List<PetOwnerDto> GetDetails();
+        
        
     }
 }

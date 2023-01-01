@@ -27,7 +27,7 @@
                     <th>
                         Tel
                     </th>
-                    <th>PetId</th>
+                
                     
                     <th>
                         Delete
@@ -55,9 +55,7 @@
                         <td>
                             @Html.DisplayFor(modelItem => item.Tel)
                         </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.PetId)
-                        </td>
+                       
                         <td>
                             <a asp-action="Delete" asp-route-id="@item.PetOwnerId" class="btn btn-danger">Delete</a>
                         </td>

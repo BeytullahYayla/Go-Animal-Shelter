@@ -57,14 +57,13 @@ namespace Go_Animal_Shelter.Controllers
         [HttpPost]
         public IActionResult Add(Pet pet)
         {
-            if (ModelState.IsValid)
-            {
+            
                 var result = petManager.Add(pet);
                 if (result.Success)
                 {
                     return RedirectToAction("Index");
                 }
-            }
+            
             
             return RedirectToAction("Add");
 

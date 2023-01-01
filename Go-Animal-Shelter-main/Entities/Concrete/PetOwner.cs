@@ -21,7 +21,7 @@ namespace Entities.Concrete
         public string Email { get; set; }
 
         public string Tel { get; set; }
-        public int PetId { get; set; }
+        
 
         public List<Pet> pets { get; set; }
     }

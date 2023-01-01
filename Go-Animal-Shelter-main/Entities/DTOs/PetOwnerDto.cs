@@ -16,6 +16,6 @@ namespace Entities.DTOs
         public string PetOwnerEmail { get; set; }
         public string PetOwnerPhone { get; set; }
 
-        public string PetName { get; set; }
+        
     }
 }

@@ -43,10 +43,7 @@ namespace Business.Concrete
             return new SuccessDataResult<Entities.Concrete.PetOwner>(_petOwnerDal.Get(p => p.PetOwnerId == id));
         }
 
-        public IDataResult<List<PetOwnerDto>> GetDetails()
-        {
-            return new SuccessDataResult<List<PetOwnerDto>>(_petOwnerDal.GetDetails(),"Details Listed Successfully");
-        }
+        
 
         public IResult Update(Entities.Concrete.PetOwner petOwner)
         {
