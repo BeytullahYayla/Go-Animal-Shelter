@@ -15,27 +15,24 @@ namespace Entities.Concrete
         [Key]
         public int Id { get; set; }
 
-        [Required]
-        [DisplayName("Animal Category")]
+        
         public int AnimalCategoryId { get; set; }
 
-        [Required]
-        [DisplayName("Species")]
+        
         public int speciesId { get; set; }
 
-        [Required]
-        [DisplayName("Pet Owner")]
+        
         public int PetOwnerId { get; set; }
 
-        [Required]
+        
         
         public string Name { get; set; }
-        [Required]
+        
         
         public int Age { get; set; }
-        [Required]
+        
         public string Description { get; set; }
-        [AllowNull]
+       
         public string ImagePath { get; set; }
 
 

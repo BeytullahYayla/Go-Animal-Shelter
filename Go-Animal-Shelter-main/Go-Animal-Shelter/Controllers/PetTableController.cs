@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace Go_Animal_Shelter.Controllers
 {
+    [Authorize(Roles ="Admin")]
     public class PetTableController : Controller
     {
 
