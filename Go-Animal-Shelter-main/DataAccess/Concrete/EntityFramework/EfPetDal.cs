@@ -21,7 +21,7 @@ namespace DataAccess.Concrete.EntityFramework
                              join ac in context.AnimalCategories
                              on pe.AnimalCategoryId equals ac.Id
                              join sp in context.Species
-                             on pe.AnimalSpeciesId equals sp.Id
+                             on pe.speciesId equals sp.Id
                              join po in context.PetsOwners
                              on pe.PetOwnerId equals po.PetOwnerId
 
@@ -36,7 +36,6 @@ namespace DataAccess.Concrete.EntityFramework
                                  Description = pe.Description,
                                  ImagePath = pe.ImagePath,
                                  PetName = pe.Name,
-
                                  PetOwnerName = po.FirstName + " "+po.LastName,
                                  SpeciesName = sp.Name
 

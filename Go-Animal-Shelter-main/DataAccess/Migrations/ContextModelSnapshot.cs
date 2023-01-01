@@ -35,7 +35,7 @@ namespace DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("AnimalCategories");
+                    b.ToTable("AnimalCategories", (string)null);
                 });
 
             modelBuilder.Entity("Entities.Concrete.Contact", b =>
@@ -64,7 +64,7 @@ namespace DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Contacts");
+                    b.ToTable("Contacts", (string)null);
                 });
 
             modelBuilder.Entity("Entities.Concrete.OperationClaim", b =>
@@ -81,7 +81,7 @@ namespace DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("OperationClaims");
+                    b.ToTable("OperationClaims", (string)null);
                 });
 
             modelBuilder.Entity("Entities.Concrete.Pet", b =>
@@ -127,7 +127,7 @@ namespace DataAccess.Migrations
 
                     b.HasIndex("speciesId");
 
-                    b.ToTable("Pets");
+                    b.ToTable("Pets", (string)null);
                 });
 
             modelBuilder.Entity("Entities.Concrete.PetOwner", b =>
@@ -159,7 +159,7 @@ namespace DataAccess.Migrations
 
                     b.HasKey("PetOwnerId");
 
-                    b.ToTable("PetsOwners");
+                    b.ToTable("PetsOwners", (string)null);
                 });
 
             modelBuilder.Entity("Entities.Concrete.Service", b =>
@@ -180,7 +180,7 @@ namespace DataAccess.Migrations
 
                     b.HasKey("ServiceId");
 
-                    b.ToTable("Services");
+                    b.ToTable("Services", (string)null);
                 });
 
             modelBuilder.Entity("Entities.Concrete.Species", b =>
@@ -197,7 +197,7 @@ namespace DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Species");
+                    b.ToTable("Species", (string)null);
                 });
 
             modelBuilder.Entity("Entities.Concrete.User", b =>
@@ -233,7 +233,7 @@ namespace DataAccess.Migrations
 
                     b.HasKey("UserID");
 
-                    b.ToTable("Users");
+                    b.ToTable("Users", (string)null);
                 });
 
             modelBuilder.Entity("Entities.Concrete.UserOperationClaims", b =>
@@ -252,7 +252,7 @@ namespace DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("UserOperationClaims");
+                    b.ToTable("UserOperationClaims", (string)null);
                 });
 
             modelBuilder.Entity("Entities.Concrete.Veterinerian", b =>
@@ -288,7 +288,7 @@ namespace DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Veterinerians");
+                    b.ToTable("Veterinerians", (string)null);
                 });
 
             modelBuilder.Entity("OperationClaimUser", b =>
@@ -303,7 +303,7 @@ namespace DataAccess.Migrations
 
                     b.HasIndex("usersUserID");
 
-                    b.ToTable("OperationClaimUser");
+                    b.ToTable("OperationClaimUser", (string)null);
                 });
 
             modelBuilder.Entity("Entities.Concrete.Pet", b =>

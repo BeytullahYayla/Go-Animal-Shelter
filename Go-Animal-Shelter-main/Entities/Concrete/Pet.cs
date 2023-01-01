@@ -15,7 +15,7 @@ namespace Entities.Concrete
 
         public int AnimalCategoryId { get; set; }
 
-        public int AnimalSpeciesId { get; set; }
+        public int speciesId { get; set; }
 
         public int PetOwnerId { get; set; }
 

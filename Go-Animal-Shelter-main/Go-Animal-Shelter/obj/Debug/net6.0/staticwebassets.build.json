@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NUckFPnbAUvIGXwVJWiPNU/Kfg44ZcwaNiSL+9HZ31o=",
+  "Hash": "n7mH2E5nYkns2YPAxgMB9jd62kpYKUpYw34XKqIQJGA=",
   "Source": "MVC",
   "BasePath": "_content/MVC",
   "Mode": "Default",
@@ -70900,6 +70900,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\bg_3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\images\\cennet.jpg",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "images/cennet.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cennet.jpg"
     },
     {
       "Identity": "C:\\Users\\Beytullah\\Documents\\GitHub\\Go-Animal-Shelter\\Go-Animal-Shelter-main\\Go-Animal-Shelter\\wwwroot\\images\\gallery-1.jpg",
