@@ -68,8 +68,13 @@ namespace Go_Animal_Shelter.Controllers
         
         public IActionResult Delete(int id,Service service)
         {
-           serviceManager.Delete(service);
-           return RedirectToAction("List");          
+           var result=serviceManager.Delete(service);
+            if (result.Success)
+            {
+                return RedirectToAction("List");
+            }
+            return RedirectToAction("Index");
+                    
         }
 
     }

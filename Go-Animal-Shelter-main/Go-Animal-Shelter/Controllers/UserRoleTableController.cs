@@ -16,6 +16,11 @@ namespace Go_Animal_Shelter.Controllers
             var values=operationClaimManager.GetUserOperationClaims();
             return View(values);
         }
+        public IActionResult Update()
+        {
+            return View();
+        }
+
 
        
 

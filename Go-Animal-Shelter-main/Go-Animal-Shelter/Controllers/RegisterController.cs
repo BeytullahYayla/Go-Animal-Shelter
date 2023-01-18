@@ -30,10 +30,20 @@ namespace Go_Animal_Shelter.Controllers
                 {
 
                     UserOperationClaim userOperationClaim = new UserOperationClaim();
-                    //Sisteme eklenen kullanıcının rolü otomatik olarak user olarak atanır.
-                    userOperationClaim.UserID = result.Data.UserID;
-                    userOperationClaim.OperationClaimID = 2;
-                    userOperationClaimManager.Add(userOperationClaim);
+					//Sisteme eklenen kullanıcının rolü otomatik olarak user olarak atanır.
+					if (userRegisterDto.Email=="B201210008@sakarya.edu.tr"||userRegisterDto.Email=="B201210080@sakarya.edu.tr")
+					{
+                        userOperationClaim.UserID = result.Data.UserID;
+                        userOperationClaim.OperationClaimID = 1;
+                        userOperationClaimManager.Add(userOperationClaim);
+                    }
+					else
+					{
+                        userOperationClaim.UserID = result.Data.UserID;
+                        userOperationClaim.OperationClaimID = 2;
+                        userOperationClaimManager.Add(userOperationClaim);
+                    }
+                    
                     return View("Index");
 
 

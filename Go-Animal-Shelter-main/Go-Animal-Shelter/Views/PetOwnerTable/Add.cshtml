@@ -4,17 +4,13 @@
     ViewData["Title"] = "Add Animal Categoryö";
     Layout = "Layout2";
 }
-<br />
+
 <div class="content-wrapper">
     <div class="row">
         <div class="col-md-4">
             <form asp-action="Add">
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-                <div class="form-group">
-                    <label asp-for="PetOwnerId" class="control-label"></label>
-                    <input asp-for="PetOwnerId" class="form-control" />
-                    <span asp-validation-for="PetOwnerId" class="text-danger"></span>
-                </div>
+                
                 <div class="form-group">
                     <label asp-for="FirstName" class="control-label"></label>
                     <input asp-for="FirstName" class="form-control" />

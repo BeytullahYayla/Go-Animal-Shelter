@@ -117,7 +117,7 @@ namespace Go_Animal_Shelter.Controllers
         public IActionResult Delete(int id,Pet pet)
         {
             var result=petManager.Delete(pet);
-            return View("Index");
+            return RedirectToAction("Index");
         }
     }
 }

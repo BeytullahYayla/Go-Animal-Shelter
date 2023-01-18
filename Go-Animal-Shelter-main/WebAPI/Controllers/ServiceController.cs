@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -33,6 +34,8 @@ namespace WebAPI.Controllers
 		[HttpGet("GetById")]
 		public IActionResult GetById(int id)
 		{
+			
+			
 			var result=_serviceService.GetById(id);
 			if (result.Success)
 			{

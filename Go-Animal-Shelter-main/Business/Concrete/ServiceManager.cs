@@ -39,7 +39,7 @@ namespace Business.Concrete
 
 		public IDataResult<Service> GetById(int id)
 		{
-			throw new NotImplementedException();
+			return new SuccessDataResult<Service>(_serviceDal.Get(p => p.ServiceId == id),"Id'ye gore getirildi");
 		}
 
 		public IResult Update(Service service)
