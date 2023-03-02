@@ -7,7 +7,7 @@ Projemizde hayvanların birçok ihtiyacının karşılandığı bir hayvan barı
 ## Kullanılan Teknolojiler
 <ul>
 <li>Postgresql</li>
-<li>Asp.neycore 6</li>
+<li>Asp.netcore 6</li>
 <li>C#</li>
 <li>Entity Framework Core</li>
 <li>LINQ</li>
